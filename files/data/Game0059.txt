@@ -1,0 +1,28 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | vigilante, and 3 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the vigilante to kill and the rest to
+floyd | sleep.
+floyd | josh_g, a villager, is found as a heap of gnawed bones.
+floyd | hloif, a villager, is found scattered around the village.
+floyd | it is now day. time to vote on whom to lynch.
+josh_g says, "ow"
+brenbarn says, "whoa, 4 different roles left"
+parsergirl says, "yipes"
+golrien says, "gah"
+brenbarn says, "too bad the vig didn't get the wolf"
+golrien says, "i'm villager."
+brenbarn says, "well, if that's true, you're the only one"
+maga_dogg says, "ok. i'm seer. unfortunately, i pointed to josh, so i have no evidence"
+golrien says, "whee"
+</thrax> at the conclusion of his address, bush did not grab a leggy blonde reporter out of the crowd and kiss her.
+parsergirl says (to maga), "pretty easy to say now ;)"
+golrien says, "so there is one wolf, who could be pg or brenbarn."
+golrien says, "unless maga is lying."
+parsergirl says (to golrien), "or you are."
+brenbarn says (to golrien), "you could be lying too"
+golrien says, "no, i'm villager."
+golrien says, "but yes, i could be lying."
+floyd | parsergirl votes to lynch golrien.
+maga_dogg says, "this would be the wolf's cue to jump up and claim seerhood."
+floyd | maga_dogg votes to lynch golrien.
+floyd | brenbarn votes to lynch golrien.

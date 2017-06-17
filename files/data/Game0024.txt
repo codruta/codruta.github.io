@@ -1,0 +1,64 @@
+floyd | a new game begins with 7 players composed of 2 werewolves, 1 seer, and
+floyd | 4 villagers.  now it is night; time for the werewolves to kill, the
+floyd | seer to identify and the rest to sleep.
+schep says, "er, that allows the villagers no chance to be wrong."
+marvin says, "then it'll be quick, and we can do it right."
+brenbarn shrugs in his sleep.
+mona tosses and turns
+floyd | schep, a villager, may still be with us in spirit, but not in flesh.
+floyd | it is now day. time to vote on whom to lynch.
+mona says, "ok, who's the seer"
+thrax asks, "how many chances do we have?"
+marvin says, "okay, we have a seer still."
+marvin asks, "anyone want to claim seerage?"
+thrax says, "me."
+</ryan> while i was here, a duck said to me, "there is only one maharito." earlier, he told me "the vest isn't 100% against heat." i don't know why all the ducks with shops around here talk like insane sidewalk conspiracy theorists, but it doesn't make me want to buy anything.
+thrax says, "wb is a wolf."
+</guest1> alex forgets about the guest. "now i don't believe in anything!"
+floyd | thrax votes to lynch weirdbeard.
+marvin asks (of thrax), "you know anything?"
+floyd | mona votes to lynch weirdbeard.
+weirdbeard says, "i'm seer"
+brenbarn says, "see, this is really just as crazy as with no seer"
+marvin asks (of weirdbeard), "what?"
+weirdbeard says, "but i saw a villager"
+floyd | esrom votes to lynch weirdbeard.
+marvin asks (of weirdbeard), "who?"
+esrom asks, "and who was this villager?"
+weirdbeard says, "mona"
+thrax says, "you'll see. (and then i'll die, of course.)"
+mona says, "this is too weird"
+esrom says, "hmm..."
+thrax says, "but mona is a good place to look for the next wolf."
+floyd | weirdbeard votes to lynch thrax.
+brenbarn says, "maybe -- yeah, i was thinking that."
+floyd | mona retracts a vote for weirdbeard.
+marvin says, "hmm."
+marvin says, "not sure about this."
+brenbarn says, "oooh, this is tricky."
+mona ackks
+brenbarn says, "oh, fiddle"
+floyd | brenbarn votes to lynch weirdbeard.
+marvin says, "so if thrax is the wolf, weirdbeard's the seer, and vice-versa."
+mona says, "i like to believe weirdbeard"
+thrax says, "we only have one shot, with two wolves."
+thrax says, "wb's playing defense."
+floyd | mona votes to lynch thrax.
+floyd | brenbarn retracts a vote for weirdbeard.
+thrax asks (of mona), "why?"
+brenbarn says, "this is maniacal"
+marvin says, "and if weirdbeard *is* the wolf, mona's probably the other wolf."
+thrax says, "notice that i came forward first."
+mona says (to thrax), "either you or wb"
+brenbarn says (to thrax), "you could have been pre-empting"
+mona says (to marvin), "good point, 'cept i ain't a wolf"
+mona says, "so, thrax must be faking"
+marvin says (to mona), "hmm."
+thrax says (to mona), "no, i'm figuring because wb is trying to protect you."
+mona says, "hm.."
+thrax says (to mona), "it's possible that wb is just hoping that we'll look in the wrong place once we lynch him."
+brenbarn says, "it sure sounds like mona and thrax are in cahoots, but it also smacks of double-bluffing or something."
+floyd | marvin votes to lynch thrax.
+thrax says (to monda), "and once the wolf gets me."
+marvin says, "i think."
+floyd | brenbarn votes to lynch thrax.

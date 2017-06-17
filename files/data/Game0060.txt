@@ -1,0 +1,24 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | vigilante, and 2 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the vigilante to kill and the rest to
+floyd | sleep.
+josh_g says (to pg), "har har"
+josh_g says, "yeesh lag"
+brenbarn says, "man, darn this lag"
+floyd | golrien, a seer, is found as a heap of gnawed bones.
+floyd | brenbarn, a villager, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+golrien says, "fuck"
+brenbarn says, "ugh"
+josh_g says, "erk"
+parsergirl says, "my."
+maga_dogg calls villager. hopeless. hopeless!
+josh_g says, "me am vigilante. me kill wrong person"
+josh_g says, "although i didn't gnaw any bones, yikes"
+parsergirl says (to josh_g), "go sit in the corner"
+maga_dogg says (to josh), "you are either dumb, or lying"
+maga_dogg says, "looks like i've got the deciding vote, then."
+parsergirl says, "i.m. weasel.  also, villager."
+josh_g says, "tsk tsk. you should know by now that i'm an honest idiot"
+floyd | maga_dogg votes to lynch parsergirl.
+floyd | josh_g votes to lynch parsergirl.

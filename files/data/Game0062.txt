@@ -1,0 +1,29 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | vigilante, and 3 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the vigilante to kill and the rest to
+floyd | sleep.
+brenbarn says, "ah well"
+floyd | golrien, a villager, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+golrien says, "arse"
+brenbarn says, "yay single death"
+josh_g says, "wow, cool"
+maga_dogg says, "does that mean vigilante and wolf- yeah"
+gunther says, "wow, someone really hates golrien"
+maga_dogg says (to golrien), "aren't you mr. popular."
+gunther says, "and someone else too"
+parsergirl says, "woah, irta gunther getting killed"
+gunther says (to parsergirl), "you wish, baby"
+parsergirl says, "uh, no."
+brenbarn asks, "okay, now what?"
+parsergirl says, "if i'm seer, gunther is a villager"
+brenbarn says, "if i'm seer, pg is vigilante"
+josh_g says, "if i'm seer, parsergirl is a villager"
+gunther says, "if i'm seer, maga_dogg is a werewolf."
+maga_dogg says, "if i'm seer, i'm vigilante."
+brenbarn says, "heh"
+gunther says, "also, if i'm seer, pigs can fly"
+floyd | maga_dogg votes to lynch parsergirl.
+floyd | brenbarn votes to lynch maga_dogg.
+floyd | josh_g votes to lynch maga_dogg.
+floyd | parsergirl votes to lynch maga_dogg.

@@ -1,0 +1,132 @@
+floyd | a new game begins with 7 players composed of 2 werewolves, 1 seer, and
+floyd | 4 villagers.  now it is night; time for the werewolves to kill, the
+floyd | seer to identify and the rest to sleep.
+brenbarn asks, "who's holding up the wheels of progress?"
+floyd | thazz, a villager, is dead.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "hrm"
+thazz cries!
+marten says, "hmm"
+guest1 exclaims, "poor thazz... poor bro!"
+(from thazz) thazz's corpse goes to pout in a corner.
+julian says, "yeah, we've seen *your* filial love for each other."
+brenbarn asks, "heck, we have to be right, huh?"
+brenbarn says, "that's hardcore"
+guest1 says, "cry cry cry... who killed my bro? ;=)"
+floyd | julian votes to lynch guest1.
+marten exclaims, "well, better do it right this time!"
+floyd | traevoli votes to lynch guest1.
+brenbarn asks, "what?"
+floyd | marten votes to lynch guest1.
+brenbarn says, "don't be all hasty"
+traevoli says, "there doesn't seem to be a lot of love in this family."
+dglasser says (to julian), "don't be too quick to jump!@"
+brenbarn says, "so i'm assuming the seer didn't id a wolf"
+julian says (to dglasser), "but she's too loud! ... ok."
+brenbarn asks, "is it worth it for them to come out anyway?"
+marten says, "well, if he had there would be a better argument now"
+<skip> you're just jealous because the voices are talking to me.
+traevoli exclaims, "i'm the seer!  i identified myself as a wolf!"
+brenbarn says, "hee hee"
+traevoli gets himself lynched.
+guest1 exclaims, "hey ! hoe! don't lynch me wrongly like last time!!!"
+julian says, "traevoli =)"
+marten exclaims, "we'll just keep lynching you 'till we get it right! it's the american way!"
+brenbarn says, "if seer knows an innocent, that leaves 4 people"
+jarb has had his fill of playing for now, and goes back to the lounge.
+julian says, "actually, guest1 *is* the wolf."
+brenbarn says, "which gives us a 50-50 chance"
+guest1 pouts! julian is the wolf!
+traevoli says, "that would be truly sick.  a devil who can kill.  i suppose you'd have to have a seer who could be a vigilante."
+julian exclaims, "recriminations!"
+<steve> the new food-like substances have less of everything, which makes them more costly, but worth it.
+</liza> i am so embarrassed about my giraffe
+julian says, "traevoli ... i didn't follow that.  sorry."
+brenbarn says, "if the seer idd thazz, that leaves 5 possible wolves"
+brenbarn says, "but dude, if we're wrong, we die"
+brenbarn asks, "who's the seer?"
+boingball arrives, full of funk, but no fun.
+floyd | current players (6):
+floyd | julian has 0 votes and votes to lynch guest1.
+floyd | traevoli has 0 votes and votes to lynch guest1.
+floyd | guest1 has 3 votes and hasn't yet voted.
+floyd | marten has 0 votes and votes to lynch guest1.
+floyd | brenbarn has 0 votes and hasn't yet voted.
+floyd | dglasser has 0 votes and hasn't yet voted.
+floyd |
+guest1 asks, "i would be way too loudmouthed for a wolf , wouldn't i?"
+brenbarn asks, "why did you all vote for guest1?"
+dglasser asks (of julian), "why are you saying that?"
+marten asks, "isn't it a bit early to play if i were seer?"
+julian says (to guest1), "no, i think you're loudmouthed enough."
+floyd | guest1 votes to lynch julian.
+brenbarn says (to marten), "if we guess wrong, there's no tomorrow"
+brenbarn asks, "who's the seer, man?"
+traevoli says (to brenbarn), "because she laughed at her brother's death."
+guest1 exclaims, "laughs! pleeaase, don't lynch me again!"
+marten asks, "is there one or two wolves?"
+guest1 says, "and no, i cried"
+brenbarn says, "2"
+julian says (to marten), "two."
+marten exclaims, "dang!"
+dglasser says, "(wf rules)"
+julian says, "ok, i'm worried, but the seer isn't coming forward.  guest1 seems likely..."
+marten asks, "so, if we guess wrong this round, that's it?"
+brenbarn says, "yes"
+brenbarn says, "i don't see that guest1 did anything particularly wolfish"
+julian asks, "wait a second!  who died and made brenbarn moderator?  what if *he* and guest1 are wolves!?"
+julian says, "she exaggerated her response to the death."
+traevoli recaps, "guest1 said 'cry cry cry... who killed my bro? ;=)' sounds sarcastic to me."
+marten says, "lay off him julian, he's trying to help"
+julian says, "and you're trying to protect her."
+julian says, "sigh.  ok.  nevermind."
+dglasser says (to julian), "you're getting pretty violent yourself"
+marten says, "yeah, i have to admit julian is making himself damn suspicious"
+julian says, "sorry."
+brenbarn says, "bah"
+traevoli says, "we're all a little noose-happy.  seeing as what's happened in the nearby towns."
+guest1 asks, "no it's just the sad sister thing! bah! none of you has sisters?"
+julian asks, "now wait a second!  i've been lynched *twice* for acting the same way!  where'd that get us?"
+julian says (to guest1), "i have a sister."
+traevoli does, too.
+guest1 says, "poor girl..."
+boingball does, but he's not playing.
+traevoli says, "i doubt my sister would smile at my murder."
+julian says (to guest1), "but she's not rude, unlike some i've encountered."
+julian says (to guest1), "=)"
+guest1 exclaims, "pouts... thazz, say something!"
+brenbarn says, "thazz is dead"
+thazz doesn't say anything. he's dead.
+traevoli says, "y'know consistency is a good camoflauge for werewolves."
+traevoli says, "not that we're supposed to take into account people's playing style from previous games..."
+guest1 cries as bren reminds her cruelly of her brother's death...
+brenbarn says, "3 people are voting for guest"
+julian says, "ok, i'll stop acting this way."
+julian asks, "how do i unvote?"
+boingball says, "unvote <person>"
+floyd | julian retracts a vote for guest1.
+brenbarn says, "since i'm not a wolf, at one of those 3 must be a wolf, or dg and guest1 are wolves"
+boingball says, "<person> is probably optional"
+julian says, "dg?  yes, he's quiet... and so is marten."
+marten says, "well, i'm not a wolf, and since julian just tried to draw attention away from himself ...."
+julian says, "huhn.  everyone who claims not be a wolf, please raise your hand."
+dglasser says, "i may be quiet but that's because i'm distracted"
+brenbarn says, "why doesn't the seer reveal themselves?  it can't hurt -- well, it might hurt tomorrow, but if there's no tomorrow, who cares about that"
+dglasser says, "i'm a villager"
+traevoli raises his hand.
+julian says, "well, that was a rhetorical request."
+brenbarn asks (of traevoli), "you're seer?"
+julian raises his hand.
+brenbarn says, "oh, sorry, misread"
+traevoli says (to brenbarn), "i'm not a wolf."
+marten says, "well then, let's forsake my little life here and let me tell you that brenbarn is not a wolf, and i am the soon to be dead seer"
+brenbarn says, "excellent"
+julian says, "the seer really could turn this game into a 50-50, which is better than not."
+julian says, "what brenbarn said."
+brenbarn says, "now all you guys have to do is pick someone else and you'll have a 50-50 chance"
+guest1 exclaims, "nods to marten... so, i bet for julian!"
+brenbarn says, "i suppose that means guest1 is as reasonable as any"
+marten says, "yes, that's what i thought"
+floyd | brenbarn votes to lynch guest1.
+julian says, "i'll go with brenbarn, then."
+floyd | julian votes to lynch guest1.

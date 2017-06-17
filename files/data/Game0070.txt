@@ -1,0 +1,48 @@
+floyd | a new game begins with 6 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, and 2 villagers.  now it is night; time for the
+floyd | werewolves to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+ander arrives, full of neither funk nor fun.
+floyd | no one died the previous night.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "yay baner"
+skip says, "yay baner!"
+bishop says (to ander), "for running commentary by the dead, such as it is, you might want to @joinc #wolf-watchers"
+boingball says, "woo"
+lucenttrans says, "yay baner."
+skip says, "those who are still alive, mute wolf-watchers"
+bishop says, "go us."
+ander says, "thanks."
+skip asks, "iiats?"
+bishop says (to skip), "if we must."
+boingball says (to skip), "we all are"
+lucenttrans asks, "iiats?"
+skip asks (of boingball), "we all are what?"
+boingball says, "alive"
+bishop says (to lt), "if i am the seer..."
+skip says (to boingball), "yeah, i knew that."
+lucenttrans says, "oh. only familiar with iias."
+skip says, "fuck 'if'. i'm the seer, brenbarn's a wolf."
+bishop says, "toyshop needs an alex gateway. i mean, we can page, but that won't talk to everyone."
+boingball says (to skip), "all righty"
+brenbarn says, "if i am the seer, bishop is innocent"
+brenbarn says, "hey!"
+floyd | skip votes to lynch brenbarn.
+floyd | boingball votes to lynch brenbarn.
+lucenttrans says, "if i'm the seer, boingball is innocent."
+floyd | brenbarn votes to lynch skip.
+bishop says, "iias, skip is innocent."
+floyd | lucenttrans votes to lynch bishop.
+boingball says, "if i'm seer, bishop is innocent"
+skip asks (of lt), "why bishop?"
+brenbarn says, "whoa, off to a wacky start"
+lucenttrans says, "because nobody's voted for bishop yet."
+floyd | bishop votes to lynch brenbarn.
+boingball asks (of skip), "you are directly calling seer, yes?"
+skip says (to boingball), "yes."
+lucenttrans says, "i don't want to kill the seer or the baner or a villager or any other helpful folk."
+skip says, "hoping baner will protect me. if necessary."
+skip says (to lt), "just vote brenbarn."
+boingball says, "okay, we might as well go for bren"
+skip says, "trust me."
+floyd | weirdbeard votes to lynch brenbarn.

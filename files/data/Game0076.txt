@@ -1,0 +1,114 @@
+floyd | a new game begins with 11 players composed of 2 werewolves, 1 seer,
+floyd | and 8 villagers.  now it is night; time for the werewolves to kill,
+floyd | the seer to identify and the rest to sleep.
+julian asks, "should i close my eyes?  or not until floyd says?"
+brenbarn says, "you don't have to close your eyes"
+lonecleric says, "everything happens through floyd."
+julian says, "oh, ok."
+lonecleric says, "and normally, we don't speak out loud at night."
+brenbarn says, "if you're a villager, you just do 'wf sleep'"
+bishop says, "but you'll want to 'wf kill <name>', 'wf identify <name>', or 'wf sleep' depending who you are."
+julian says, "wf kill lonecleric"
+julian says, "err,  jk."
+floyd | andyf, a villager, is remembered at a special service held at
+floyd | daybreak.
+floyd | it is now day. time to vote on whom to lynch.
+lonecleric says, "oh dear."
+andyf says, "bah."
+gunther says, "i see dead people!"
+brenbarn says, "ooer"
+bishop says, "aw."
+thazz says, "well, who had the motive and opportunity?""
+marten exclaims, "oh no!"
+bishop asks (of thazz), "um, everybody?"
+traevoli looks very solemn.
+julian exclaims, "andyf was dating thazz's girlfriend!"
+guest1 says, "it can't be my brother! don't lynch thazz! dont! ;=("
+gunther says (to bishop), "except andyf, i guess"
+thazz frowns. "hm. there is that, bishop."
+julian asks (of gunther), "well, that's an assumption, isn't it?"
+thazz laughs. "i am not the wolf!"
+bishop says (to gunther), "well, it could have been suicide. er, he could have, um, bitten his own throat out."
+brenbarn asks, "a wolfish cackle, eh?"
+traevoli says, "who's new in town?  if we have no reason to trust them, we have every reason to suspect them."
+bishop contorts his body in an attempt to demonstrate.
+gunther says, "actually, i have no idea whether werewolves can kill themselves or others"
+brenbarn says, "they can kill each other, yeah"
+andyf says, "don't mind me, i'll just sit here and decompose."
+lonecleric says (to gunther), "yes they can."
+bishop says (to andyf), "quiet, you. your're dead."
+guest1 chuckles.
+brenbarn says, "not sure if a lone wolf can kill himself"
+lonecleric says (to gunther), "in a botched game, the last remaining ww killed himself."
+gunther says, "heh"
+julian says, "andyf seems to have not been buried properly."
+brenbarn says, "i remember we had a nice big game once and maga killed me even though we were both wolves"
+marten says, "oh great, so we now have undead too! nice village :)"
+guest1 asks, "just one question, there were two werewolves, why is only one person dead?"
+traevoli covers the body with a sheet.
+bishop says (to bb), "yes, i can see maga doing that. <g>"
+brenbarn says (to guest), "the wolves agree on one victim"
+gunther says, "anyway, unless the seer has identified a wolf and wants to step forward (which may or may not be a good idea), we have to lynch at random"
+brenbarn says, "no matter how many wolves there are"
+lonecleric says, "just like we'll agree on one."
+you scoop up the dice, and rattle them around a bit.
+thazz nods. "it's a shame that we do have to kill somebody."
+julian asks, "has the seer identified a wolf?"
+brenbarn rolls six dice-sided dice, and gets 1(1), 1(2), 1(3), 1(4), 1(5), 1(6).
+brenbarn says, "gah"
+you roll the dice on the floor. the red one comes up 3, and the green one comes up 6.
+guest1 growls... oops ;=)
+julian asks, "hey?  can we lynch both the wolves, if the seer identifies both of them?"
+bishop asks (of bb), "and that means what?"
+schep says (to julian), "not in one day."
+brenbarn says, "marten or bishop"
+gunther says (to julian), "only one lynching and only one identification a day"
+bishop says (to julian), "only one lynching per day."
+julian says, "huhn.  ok."
+marten says, "hey, don't lynch me! i just got here :)"
+thazz asks, "okay, so who's suspicious?"
+bishop says, "the aclu or the touristry board or someone comes after us if we do more."
+gunther says, "yeah, don't lynch a newbie on their first turn."
+guest1 smiles innocently... ;=)
+thazz asks, "what if the newbie is the wolf, though?"
+julian asks, "who here is a newbie?"
+traevoli asks (of brenbarn), "those numbers represent ni what order we joined?"
+marten exclaims, "thank you!"
+bishop gazes around in wonder, drops his jaw, and pretends to be a newbie.
+brenbarn says, "well, i'm just counting from the bottom of the who list"
+gunther says (to thazz), "well, sure, once we have proof it's different"
+brenbarn asks (of bishop), "being tricky, are you?"
+floyd | brenbarn votes to lynch bishop.
+lonecleric says, "we're lynching at random for now, so why pick a newbie? that's the reason."
+marten points at himself, i'm new in town
+thazz exclaims, "proof! we need proof! of which there is none!"
+floyd | lonecleric votes to lynch bishop.
+floyd | julian votes to lynch bishop.
+bishop says (to brenbarn), "yes. stand in awer of my subtlety. no, wait, ignore my subtlety."
+floyd | gunther votes to lynch bishop.
+schep says (to brenbarn), "that's not an incredibly fair system."
+floyd | schep votes to lynch brenbarn.
+floyd | thazz votes to lynch brenbarn.
+floyd | guest1 votes to lynch bishop.
+floyd | bishop votes to lynch brenbarn.
+floyd | traevoli votes to lynch brenbarn.
+brenbarn asks (of schep), "do you have any better ideas?"
+gunther says, "sigh"
+floyd | gunther changes vote from bishop to brenbarn.
+brenbarn says, "ok, fine"
+floyd | brenbarn retracts a vote for bishop.
+floyd | julian changes vote from bishop to schep.
+schep says, "well, if we're going to throw dice, at least make it equally weighted."
+brenbarn asks, "how do you mean?"
+gunther says, "oh come on, let's not have an endless discussion here"
+thazz exclaims (at gunther), "but that's the best part!"
+brenbarn says, "no"
+julian asks, "do we have to agree on who to lynch?"
+bishop throws the dice. he rolls a 'q' and a 'lawful evil'.
+gunther says, "majority vote"
+<dglasser> dglasser has connected to ifmud.
+floyd | lonecleric changes vote from bishop to bishop.
+</marten> marten has disconnected from ifmud.
+<marten> marten has connected to ifmud.
+brenbarn says, "ooh, bold move"
+floyd | lonecleric changes vote from bishop to brenbarn.

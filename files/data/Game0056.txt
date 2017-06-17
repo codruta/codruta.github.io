@@ -1,0 +1,110 @@
+floyd | a new game begins with 8 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, 1 devil, and 3 villagers.  now it is night; time
+floyd | for the werewolves to kill, the seer to identify, the wolfsbane
+floyd | carrier to protect, the devil to identify and the rest to sleep.
+golrien says, "bah."
+ctate says, "man, i have no idea how to play this game *well* :)"
+hloif says (to ctate), "well, it can be hard."
+floyd | golrien, a villager, is found scattered around the village.
+floyd | it is now day. time to vote on whom to lynch.
+ctate says, "bleah"
+hloif says, "ack, golrien."
+brenbarn says, "arg"
+skip says, "alas, poor golrien, i knew him well."
+golrien says, "bah."
+boingball says, "mm"
+maga_dogg asks, "okaaay... seer game?"
+brenbarn shrugs.
+hloif says (to skip), "ha."
+schep says, "if i am the seer, maga_dogg is the devil."
+skip says, "everyone mute #wolf-watchers"
+golrien says, "except me."
+skip says (to golrien), "yeah."
+brenbarn says, "if i am the seer, then boingball is a villager"
+skip says, "if i am the seer, hloif is a villager."
+floyd | current players (7):
+floyd | hloif has 0 votes and hasn't yet voted.
+floyd | schep has 0 votes and hasn't yet voted.
+floyd | brenbarn has 0 votes and hasn't yet voted.
+floyd | skip has 0 votes and hasn't yet voted.
+floyd | maga_dogg has 0 votes and hasn't yet voted.
+floyd | boingball has 0 votes and hasn't yet voted.
+floyd | ctate has 0 votes and hasn't yet voted.
+floyd |
+maga_dogg says, "if i am the seer, ctate is a villager."
+boingball says, "if i am seer, maga_dogg is a villager."
+brenbarn says, "hmm, nothing juicy"
+skip says (to brenbarn), "i have a lemon here..."
+boingball says, "i didn't think the point was to point villagers, but hey"
+brenbarn says, "ctate and hloif have yet to make their if-thens"
+ctate asks, "wossa if-then?"
+hloif says, "oh, sorry..."
+maga_dogg says (to boingball), "well, if the seer did point a villager, it makes sense"
+hloif says, "well, if golrien is a villager, i'm a villager."
+schep says (to hloif), "nice"
+ctate has no idea what's going on.
+maga_dogg says (to ctate), "you say, "if i'm the seer, then x is a y", where x is a player and y is a class."
+brenbarn says, "i've noticed that non-seers have a tendency to make their fake identify-ee a villager to avoid drawing attention to themselves"
+golrien says, "if i'm a villager, margaret thatcher is dead."
+brenbarn says (to ctate), "if you're the seer, tell the truth, if not, make something up"
+skip says (to brenbarn), "but that's a false negative."
+hloif says (to golrien), "quiet you."
+boingball says (to brb), "you started it"
+ctate says, "if i'm a seer, maga_dogg is a wolf."
+maga_dogg says, "aiieee"
+brenbarn says (to boing), "indeed"
+brenbarn says, "aha"
+maga_dogg says (to ctate), "okay, that makes you a villager, then"
+<ddyte> pantalones sana in pulpo sano
+boingball asks (of m_d), "does it? why not a wolf?"
+brenbarn says, "okay, so potential seer protection is given to boing, hloif, ctate, maga"
+maga_dogg says (to boingball), "it was a joke, not a real supposition"
+brenbarn asks, "we have a devil too, right?"
+ctate says, "yes"
+brenbarn says, "hmmm"
+ctate says, "two wolves, one devil"
+boingball says, "people fling around far more ridiculous logic during these games"
+ctate says, "one baner, one seer"
+maga_dogg says (to bb), "yay ridiculous logic"
+brenbarn says, "hrm"
+brenbarn asks, "any ideas?"
+skip says (to brenbarn), "there's always the "lynch someone at random" strategy."
+maga_dogg says (to brenbarn), "first round random lynch it is, then"
+skip closes his eyes, spins around, and points to someone.
+you scoop up the dice, and rattle them around a bit.
+you roll the dice on the floor. the red one comes up 5, and the green one comes up 1.
+(from maga_dogg) skip says, "oh, wait. me."
+schep says, "well, no one said anything about brenbarn or skip. er, or me."
+boingball votes to lynch someone.
+golrien says, "5+1=sixth player."
+ctate says (to maga), "hee hee"
+floyd | current players (7):
+floyd | hloif has 0 votes and hasn't yet voted.
+floyd | schep has 0 votes and hasn't yet voted.
+floyd | brenbarn has 0 votes and hasn't yet voted.
+floyd | skip has 0 votes and hasn't yet voted.
+floyd | maga_dogg has 0 votes and hasn't yet voted.
+floyd | boingball has 0 votes and hasn't yet voted.
+floyd | ctate has 0 votes and hasn't yet voted.
+floyd |
+hloif says, "no one's voted yet.  because no one knows anything."
+maga_dogg rolls his trusty d6
+floyd | maga_dogg votes to lynch hloif.
+floyd | hloif votes to lynch maga_dogg.
+maga_dogg says (to hloif), "now, how did i expect that reaction... ;)"
+hloif asks (of maga_dogg), "because you voted to lynch a villager?"
+boingball says, "nobody ever does in the first round, unless a huge mistake is made"
+hloif says (to maga_dogg), "we both know you're not a villager, so why don't you lynch someone else."
+brenbarn asks (of hloif), "?"
+skip flips a coin to decide who to lynch.
+maga_dogg asks (of hloif), "?"
+skip asks (of maga), "you want heads or tails?"
+hloif says (to maga_dogg), "you're not a villager and you know it."
+maga_dogg says (to skip), "heads"
+<thrax> davis appears especially perplexed, which is no wonder: the film asks her to play a warm, traitorous, kindhearted, shrewish, man-hungry, fact-bending, deferential careerist.
+ctate asks (of skip), "that's a rather personal question, don't you think?"
+floyd | schep votes to lynch hloif.
+maga_dogg says, "wolves have tails"
+skip says (to maga), "heads it is."
+floyd | skip votes to lynch hloif.
+floyd | hloif changes vote from maga_dogg to hloif.

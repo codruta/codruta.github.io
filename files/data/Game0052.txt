@@ -1,0 +1,19 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | fool, and 3 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the fool to identify and the rest to
+floyd | sleep.
+floyd | brenbarn, a villager, is remembered at a special service held at
+floyd | daybreak.
+floyd | it is now day. time to vote on whom to lynch.
+jwalrus says, "aw"
+maga_dogg says, "hmm."
+brenbarn says, "hmph"
+ctate says, "okay...."
+switchblade says, "yes, hmmm"
+<baf> baf has connected to ifmud.
+jwalrus says, "actually, i don't really feel like playing wolf right now, to tell you the truth"
+floyd | maga_dogg votes to lynch jwalrus.
+ctate says, "heh"
+floyd | jwalrus votes to lynch jwalrus.
+floyd | marvin votes to lynch marvin.
+floyd | switchblade votes to lynch jwalrus.

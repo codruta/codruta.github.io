@@ -1,0 +1,76 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | wolfsbane carrier, 1 mafia, and 1 villager.  now it is night; time for
+floyd | the werewolf to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect, the mafia to kill and the rest to sleep.
+ctate says (to marvin), "no, 5 people"
+switchblade says, "it worked!\"
+boingball says (to sb), "cool"
+brenbarn says (to sb), "good"
+boingball says, "my theory is proven! sweet sweet credibility"
+brenbarn says, "but that's still some kind of bug"
+switchblade says, "yeah"
+switchblade asks, "so i type the appropriate command for my identity?"
+boingball says, "most of the verbs can probably be turned off anyway"
+boingball says (to sb), "yes"
+brenbarn says, "yeah"
+ctate says (to sb), "right, via 'wf'"
+switchblade says, "he's avoiding my statements"
+brenbarn asks, "?"
+switchblade says, "i get 'but the game has already begun"
+ctate says, "oh, that's bizarre."
+switchblade says, "wait, nothing"
+switchblade says, "i think floyd hates me"
+brenbarn asks, "are you sure you gave the right, command?"
+brenbarn says, "s/,//"
+boingball says, "that's the response to 'begin'"
+brenbarn says, "oh, i think that happens if you just do 'kill' with no name"
+brenbarn says, "or protect or whatever"
+floyd | brenbarn, a mafia, doesn't wake up today.
+floyd | it is now day. time to vote on whom to lynch.
+switchblade says, "i get it"
+brenbarn says, "hey!"
+brenbarn says, "my kill didn't take effect"
+ctate says, "woo, safety"
+brenbarn asks, "or wait -- is there a pecking order?"
+boingball says, "i'm baner, by the way"
+ctate says (to brenbarn), "because you were killed first?  interesting."
+brenbarn says (to ctate), "that's what i'm wondering"
+boingball says, "and i don't care who the seer is, i'm only protecting *me*"
+ctate laughs.
+brenbarn says, "uh-oh, there's potential for stalemate here"
+brenbarn realizes he is dead and shuts up.
+switchblade asks, "so what do we do know?"
+ctate says, "we decide whom to lynch."
+boingball says, "me and marvin vote each other"
+switchblade says, "ok"
+floyd | switchblade votes to lynch marvin.
+switchblade says, "no i don't"
+ctate says, "you can 'wf unvote'"
+floyd | switchblade retracts a vote for marvin.
+marvin exclaims (at switchbarn), "hey!"
+floyd | marvin votes to lynch switchblade.
+floyd | boingball votes to lynch marvin.
+marvin says, "damn lag."
+ctate asks (of boing), "uh, why marvin?"
+boingball says, "tradition"
+ctate laughs.
+floyd | switchblade votes to lynch marvin.
+floyd | switchblade retracts a vote for marvin.
+floyd | boingball changes vote from marvin to marvin.
+floyd | boingball retracts a vote for marvin.
+ctate says, "heh"
+floyd | switchblade votes to lynch boingball.
+ctate says, "i'm getting dizzy :)"
+marvin asks (of ctate), "what are you?"
+marvin asks (of switchblads), "and what are you?"
+switchblade says, "seer"
+switchblade says, "but not a good one"
+floyd | marvin changes vote from switchblade to ctate.
+floyd | boingball votes to lynch ctate.
+ctate says, "villager"
+marvin says, "get ctate, it's him. i'm a villager."
+marvin says, "he isn't."
+ctate says, "uh"
+switchblade says, "righjt"
+floyd | ctate votes to lynch marvin.
+floyd | switchblade changes vote from boingball to ctate.

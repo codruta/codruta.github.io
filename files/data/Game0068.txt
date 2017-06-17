@@ -1,0 +1,42 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | devil, and 2 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the devil to identify and the rest to
+floyd | sleep.
+maga_dogg says, "here we go..."
+new default channel: media/movie
+floyd | schep, a seer, is dead.
+floyd | it is now day. time to vote on whom to lynch.
+ctate says, "fuck"
+maga_dogg says, "oh, crud"
+schep . o o ( not again )
+brenbarn says, "crap, same seer, same death"
+maga_dogg says, "deja vu"
+golrien says, "bleah."
+maga_dogg says, "it wasn't me! honest"
+golrien says (to floyd), "your random number generator sucks."
+brenbarn says, "hey, last time schep was a seer and died, it was maga, therefore. . ."
+golrien says, "we could."
+maga_dogg says (to brenbarn), "no."
+<josh_g> look, they can't all be the theory of relativity, okay?
+floyd | ctate votes to lynch brenbarn.
+maga_dogg says, "turnips good, innocents bad."
+floyd | maga_dogg votes to lynch ctate.
+brenbarn asks (of ctate), "what?"
+golrien says, "i'm innocent."
+ctate says (to bren), "random again"
+golrien says, "which leaves ctate or brenbarn, plus liers."
+ctate says, "i claim useless"
+golrien asks, "brenbarn? going to claim villager as well?"
+brenbarn says, "who cares, we're all claiming villager anyway"
+ctate says, "wow, two villagers vs. wolf & devil?  owie."
+golrien says, "true."
+</markm> he sinks back into the ground from whence he came.
+golrien says, "bah, lagged."
+maga_dogg says, "okay, random once more"
+brenbarn says, "pah, whatever"
+floyd | maga_dogg changes vote from ctate to brenbarn.
+floyd | brenbarn votes to lynch ctate.
+floyd | golrien votes to lynch ctate.
+brenbarn says, "great"
+brenbarn says, "now we're stuck"
+floyd | maga_dogg changes vote from brenbarn to ctate.

@@ -1,0 +1,48 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | wolfsbane carrier, and 2 villagers.  now it is night; time for the
+floyd | werewolf to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+golrien asks, "go?"
+ctate asks, "how do you configure the rules?"
+schep says, "no, too --"
+golrien says, "bah"
+brenbarn says, "ah well"
+brenbarn says (to ctate), "you do 'wf wolf 1"
+brenbarn says, "and such"
+ctate says, "ah"
+floyd | schep, a seer, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "crap"
+ctate says, "eeeeagh"
+maga_dogg says, "shite"
+golrien says, "bad"
+brenbarn says, "well, we can only be wrong if baner is right"
+golrien says, "so we have baner and wolf, plus two villagers."
+maga_dogg says, "this makes life difficult"
+ctate scoops up the dice, and rattles them a bit.
+ctate rolls a pair of dice on the floor. the red one comes up 6, and the green one comes up 4.
+ctate watches the dice.
+golrien says, "i claim villager."
+maga_dogg says (to golrien), "so will everybody"
+golrien says, "which leaves ctate, maga or brenbarn. or me, if i'm lying."
+brenbarn says, "there's no point in baner coming out, i suppose, with no seer to protect"
+ctate says, "yeah"
+ctate says, "owie"
+floyd | ctate votes to lynch maga_dogg.
+ctate says, "just for kicks.  that's my random roll."
+floyd | maga_dogg votes to lynch ctate.
+golrien says, "i shall spin a ruler."
+golrien says, "and it pointed to brenbarn."
+brenbarn says, "oh pshaw"
+golrien says, "well, it pointed to the scanner, but the intent is there."
+new default channel: alt/random/markov-chains
+ctate laughs.
+maga_dogg exclaims (at golrien), "yay. then brenbarn can vote you, and we'll be totally deadlocked!"
+brenbarn says, "we have no information at all"
+golrien says, "whee!""
+brenbarn says, "therefore i vote for the perennially suspicious maga_dogg"
+ctate says, "i know.  i'm picking someone more likely than me to be a wolf, and voting."
+floyd | brenbarn votes to lynch maga_dogg.
+golrien says, "unless someone claims baner."
+maga_dogg says (to brenbarn), "fuck you"
+floyd | golrien votes to lynch maga_dogg.

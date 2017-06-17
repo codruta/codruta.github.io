@@ -1,0 +1,30 @@
+floyd | a new game begins with 6 players composed of 2 werewolves, 1 seer, 1
+floyd | vigilante, and 2 mafia.  now it is night; time for the werewolves to
+floyd | kill, the seer to identify, the vigilante to kill, the mafia to kill
+floyd | and the rest to sleep.
+boingball says (to hloif), "it can't be right from everyone's perspective."
+boingball says, "otherwise there would be no game."
+hloif says, "yeah, well mine's the only one that matters."
+floyd | boingball, a mafia, grins up at you from a lifeless skull.
+floyd | ctate, a werewolf, is remembered at a special service held at
+floyd | daybreak.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "yay two killing roles died"
+schep says, "ha ha"
+maga_dogg asks, "ok. two evil guys and a seer left, yeah?"
+schep says, "i'm the vigilante, guess i did well."
+maga_dogg says, "since i'm gonna die anyway, i'm calling seer."
+schep says, "killed ctate"
+brenbarn says, "there's seer, vig, wolf, and mafia left"
+boingball has had his fill of playing for now, and goes back to the lounge.
+maga_dogg says, "fuck. i'm the only guy left without lethal weaponry."
+maga_dogg says, "actually, fuck, i was the only guy in the entire game without lethal weaponry."
+schep asks (of maga_dogg), "so whom shall we kill?"
+hloif asks, "wait, so who/what's left?"
+maga_dogg says, "i don't care. i'm gonna die anyhow."
+schep says, "wait. we're going to lose no matter what."
+brenbarn says, "heh"
+floyd | schep votes to lynch brenbarn.
+maga_dogg says, "actually, chances are i live while the other two kill each other."
+floyd | hloif votes to lynch brenbarn.
+floyd | maga_dogg votes to lynch brenbarn.

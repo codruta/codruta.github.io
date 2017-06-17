@@ -1,0 +1,94 @@
+floyd | a new game begins with 7 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, and 3 villagers.  now it is night; time for the
+floyd | werewolves to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+ender arrives, full of funk, but no fun.
+schep says, "d'oh"
+ender asks, "am i too late?"
+maga_dogg says (to ender), "yep"
+brenbarn says, "only just"
+ender says, "never mind."
+maga_dogg says (to ender), "sorry"
+hloif says, "we could start over."
+hloif says, "we just started."
+ender says, "don't bother"
+rob says, "we could start over, yeah."
+ender has had his fill of playing for now, and goes back to the lounge.
+rob says, "oh well."
+maga_dogg says, "start ov- damn"
+floyd | hloif, a villager, grins up at you from a lifeless skull.
+floyd | it is now day. time to vote on whom to lynch.
+parsergirl says, "i'm a villager"
+maga_dogg says, "me too"
+brenbarn says, "hmm, baner didn't guess right, darn"
+rob hmmmmms.
+hloif looks like hannibal lecter's last patient.
+parsergirl says, "yucky"
+brenbarn says, "hmm, if we're wrong and baner is wrong too, we lose."
+maga_dogg says, "deathly silence, nobody wanting to incriminate themselves"
+floyd | maga_dogg votes to lynch parsergirl.
+rob says, "yeah, things are already looking pessimistic"
+rob asks (of maga_dogg), "why?"
+floyd | parsergirl votes to lynch maga_dogg.
+brenbarn says, "pg is always suspicious, but, then, so is maga"
+maga_dogg says, "too quick to call villager, too quick to say yucky."
+maga_dogg says, "and i've been wolf so often of late that it can't be me"
+floyd | rob votes to lynch parsergirl.
+schep says, "hm, if we know seer, one innocent, and baner (ideal case, of course), we'd have 2/3 chance of guessing a wolf."
+parsergirl says (to maga), "i'm not a wolf for the same reasons you aren't"
+brenbarn asks, "why not?"
+floyd | brenbarn votes to lynch parsergirl.
+maga_dogg remembers the number of people here who do maths, and hopes none are too hot on probability.
+rob says, "heh"
+brenbarn asks, "hopes?"
+schep says (to maga_dogg), "i am. ha ha."
+floyd | brenbarn retracts a vote for parsergirl.
+maga_dogg says, "(it makes f/a difference how many times i've been wolf of late)"
+rob says, "i'm going along with the 'quick to call villager' thesis"
+brenbarn says, "especially on first day"
+parsergirl says, "sigh."
+schep says, "don't kill pg."
+parsergirl says, "i'm not a wolf, i'm a villager."
+maga_dogg says, "but nonetheless, my accusations stand"
+schep says, "because she's absolutely a villager."
+rob asks, "is she innocent?"
+brenbarn asks (of schep), "are you seer?"
+schep says, "yup"
+floyd | rob retracts a vote for parsergirl.
+parsergirl says (to schep), "thank you."
+maga_dogg says, "fuck"
+brenbarn says, "hmmm."
+floyd | maga_dogg retracts a vote for parsergirl.
+rob says, "baner is likely to protect schep next turn"
+rob says, "maybe we should vote maga_dogg instead"
+floyd | maga_dogg votes to lynch rob.
+rob says, "hey, i said maybe"
+schep says, "well. assuming we get a wolf. if not, it's more a guessing game."
+emily says, "maga_dogg seems pretty hot under the collar"
+maga_dogg says, "i'm going on another instinct here"
+floyd | parsergirl changes vote from maga_dogg to emily.
+maga_dogg says (to emily), "i always do"
+schep says, "i can't remember if maga_dogg always votes so much."
+rob says, "we really do not want to string up a villager at this point"
+brenbarn says, "he does"
+maga_dogg says (to schep), "yes."
+emily says (to parsergirl), "don't do that"
+brenbarn says, "i have to leave in a few minutes"
+maga_dogg says, "makes a game more quick-moving"
+rob says, "let's vote brenbarn then"
+parsergirl asks (of emily), "why not?"
+schep says, "well, you shouldn't."
+brenbarn asks, "me?"
+floyd | schep votes to lynch maga_dogg.
+emily says (to parsergirl), "because it'd be a bad idea"
+floyd | maga_dogg changes vote from rob to schep.
+rob says, "well, if you have to go soon"
+floyd | parsergirl changes vote from emily to brenbarn.
+schep says (to maga_dogg), "fool"
+schep asks, "i'm seer, remember?"
+floyd | emily votes to lynch maga_dogg.
+rob says, "okay, now it's really tempting to vote maga_dogg"
+floyd | maga_dogg changes vote from schep to emily.
+brenbarn says, "well, the game's not going to be very long anyway"
+floyd | rob votes to lynch maga_dogg.
+floyd | parsergirl changes vote from brenbarn to maga_dogg.

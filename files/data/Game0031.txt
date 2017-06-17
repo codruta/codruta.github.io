@@ -1,0 +1,88 @@
+floyd | a new game begins with 8 players composed of 2 werewolves, 1 seer, and
+floyd | 5 villagers.  now it is night; time for the werewolves to kill, the
+floyd | seer to identify and the rest to sleep.
+jwalrus asks (of thumper), "not really to which?"
+floyd | jwalrus, a villager, is discovered lounging by the town gates, behind
+floyd | the tavern, in the bushes, across the town square, and at home.
+floyd | it is now day. time to vote on whom to lynch.
+thumper says (to jwalrus), "to easily figuring out the problem."
+inky says, "as usual i am a villager"
+jwalrus says, "oh damn you all"
+inky says, "this makes me cry"
+brenbarn says, "poor jwal"
+thrax asks (of inky), "onion?"
+maga_dogg says (to inky), "sucks, doesn't it, as i pointed out earlier"
+thumper asks (of inky), "onion flavored villager?"
+parsergirl asks, "ugh.  wasn't that the same death as before?"
+inky says (to maga), "no, i don't mind when you're a villager"
+boingball says, "yeah, let's make a nice version where nobody dies"
+parsergirl says, "gristly"
+brenbarn says (to maga), "but it makes the game as a whole more interesting."
+thumper says (to parsergirl), "i think we can thank ryan for that description."
+jwalrus says, "also it can be far scarier being a villager when the game gets near the end"
+maga_dogg picks turnips
+parsergirl says, "i like it."
+thumper asks, "are werewolves repelled by garlic, or is that vampires?"
+jwalrus asks (of maga), "is that some drug-related slang again?"
+brenbarn says, "vampires"
+parsergirl says (to thumper), "vampires"
+inky says, "anyway, i'm going to vote randomly again"
+inky scoops up the dice, and rattles them a bit.
+boingball says (to thumper), "anyone not french"
+inky says, "first die, not counting me"
+inky rolls a pair of dice on the floor. the red one comes up 6, and the green one comes up 1.
+inky watches the dice.
+maga_dogg says, "no, just pickin' turnips is what peasants do"
+floyd | inky votes to lynch thrax.
+thrax says, "um, no."
+parsergirl says, "hmm"
+maga_dogg says, "may as well..."
+floyd | boingball votes to lynch maga_dogg.
+floyd | maga_dogg votes to lynch thrax.
+maga_dogg asks (of bb), "any reason?"
+brenbarn says, "hmmm."
+boingball says, "you were being a bit too i'm-a-villagery again"
+maga_dogg says (to boing), "just lamenting my crappy boring lot."
+maga_dogg sulks
+thumper asks, "who was the wolf in last game?"
+floyd | parsergirl votes to lynch thrax.
+maga_dogg says, "me, emily"
+brenbarn says (to maga), "the yourself has better things to do than emily"
+floyd | thumper votes to lynch maga_dogg.
+maga_dogg asks (of bren), "?"
+thumper says (to maga_dogg), "default inform response."
+parsergirl says (to maga), ">me, emily"
+brenbarn says, "never mind."
+jwalrus says (to brenbarn), "you'd better be glad she's not here to hear you slander her that way"
+maga_dogg says (to pg), "ah, right"
+brenbarn says (to jwal), "i definitely am glad."
+lennier wonders, if 'to emily' were a verb, what it would mean.
+maga_dogg asks, "how'dya get floyd to read off votes?"
+boingball says, "eat cheese"
+parsergirl asks, "consume cheese?"
+thumper says (to maga_dogg), "wf who"
+jwalrus says (to maga), "wf who"
+thrax says (to lennier), "to write extremely complex games very quickly."
+thumper asks, "what does emily to do people who slander her?"
+lennier asks, "turns them into statues?"
+maga_dogg says (to thumper), "kill 'em"
+thrax says (to thumper), "turn them into cheese."
+lennier asks, "you think galatea was *programmed*?"
+brenbarn says, "summons cheese demons"
+inky says, "narrows her eyes at them"
+boingball says (to inky), "yikes"
+thumper says (to lennier), "yay."
+maga_dogg says, "although, since i've just sent in some bug problems with pytho... i'm afraid"
+brenbarn says, "when my markov chain indicated she wrote comp00ter game, she wept."
+jwalrus says (to thrax), "no, for emily that would be a *good* thing"
+inky says (to jw), "not for the people, though"
+brenbarn says (to jwal), "yes, but not for the cheese"
+inky says, "hmm"
+jwalrus says, "wow, i have five copies of werewolf.inf on my hd"
+thrax says (to jwalrus), "good for *her*, but not for you."
+inky says, "unless they were ascending to a higher state"
+maga_dogg says (to jwalrus), "suspicious behavior. harbouring of werewolves"
+boingball says, "we appear to be losing sight of the real issue of lynchin'"
+jwalrus says (to maga), "then lynch me"
+maga_dogg says, "yes. not me."
+floyd | thumper changes vote from maga_dogg to thrax.

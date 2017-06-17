@@ -1,0 +1,65 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, and 4
+floyd | villagers.  now it is night; time for the werewolf to kill, the seer
+floyd | to identify and the rest to sleep.
+floyd | marvin, a villager, grins up at you from a lifeless skull.
+floyd | it is now day. time to vote on whom to lynch.
+maga_dogg says, "agh"
+marvin says, "bastards."
+davidw says, "damn."
+brenbarn says, "hmm"
+boingball chuckles and munches popcorn
+stacey says, "well, at least it wasn't the seer"
+maga_dogg says, "so... it might be worth seer coming forwards with prediction straight away"
+marvin says (to stacey), "how touching. i'd like that put on my gravestone, if you wouldn't mind."
+stacey says (to marvin), "i'm sorry. it's only a game"
+davidw asks, "there's just one wolf, right?"
+marvin says, "and i'm not really annoyed."
+stacey says, "here lies marvin - he saved the world a lot"
+brenbarn says, "well, obviously if the seer knows the wolf, he should say so"
+maga_dogg says, "that'd leave, unh, three candidates"
+thrax asks, "play 'if i'm a seer'?"
+maga_dogg says, "probably too many"
+maga_dogg says (to brenbarn), "well duh"
+stacey says, "i guess the seer doesn't know the wolf"
+brenbarn says, "schepler maneuver sounds good"
+thrax says, "if i'm a seer, brenbarn is innocent"
+maga_dogg says, "iias, thrax is a villager."
+brenbarn says, "if i'm the seer, stacey is innocent"
+stacey says, "iias, brenbarn is innocent"
+davidw asks, "sorry, how is this helping?"
+stacey says, "it doesn't really"
+thrax says (to dw), "not much now, but it will later."
+maga_dogg says (to davidw), "if the seer dies, we can look back and check what he said"
+thrax says (to dw), "particularly if we lose the seer--right"
+brenbarn says, "now let's lynch maga_dogg anyway"
+davidw says, "oh. didn't know that."
+brenbarn says, "heh heh"
+maga_dogg exclaims, "hey!"
+brenbarn asks, "anybody got any real ideas?"
+thrax says, "not really"
+davidw says, "no. sorry."
+maga_dogg says (to bren), "well, this is the first round"
+stacey says, "i never know how to vote"
+brenbarn asks, "all we have to think of is: who would be most likely to kill marvin?"
+marvin asks, "everyone?"
+stacey says, "awww"
+boingball says, "me"
+thrax says, "we all love you marvin"
+brenbarn says, "oh pshaw"
+floyd | brenbarn votes to lynch maga_dogg.
+floyd | maga_dogg votes to lynch brenbarn.
+floyd | current players (5):
+floyd | brenbarn has 1 vote and votes to lynch maga_dogg.
+floyd | thrax has 0 votes and hasn't yet voted.
+floyd | stacey has 0 votes and hasn't yet voted.
+floyd | maga_dogg has 1 vote and votes to lynch brenbarn.
+floyd | davidw has 0 votes and hasn't yet voted.
+floyd |
+davidw says, "those two seem the most likely suspects, but i don't know which."
+brenbarn says, "i only vote maga because he's so unpredictable"
+thrax says (to maga), "okay, nothing personal"
+maga_dogg says (to brenbarn), "technically, that should be an asset"
+floyd | stacey votes to lynch brenbarn.
+floyd | thrax votes to lynch maga_dogg.
+brenbarn says (to maga), "it is -- if you're a wolf!!!"
+floyd | davidw votes to lynch brenbarn.

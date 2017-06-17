@@ -1,0 +1,78 @@
+floyd | a new game begins with 6 players composed of 2 werewolves, 2 seers,
+floyd | and 2 fools.  now it is night; time for the werewolves to kill, the
+floyd | seers to identify, the fools to identify and the rest to sleep.
+gunther says (to lonecleric), "seers who misidentify"
+hloif asks, "wait, we're playing with two seers, two fools, and two werewolves, right?"
+brenbarn says, "yep"
+hloif says, "i just wanted to make sure i understood.  cool."
+jwalrus asks, "fools always identify seers as fools, right?"
+gunther says, "it's night, kids"
+brenbarn says, "yes, but they identify non-seers as random roles, including possibly the correct role"
+floyd | hloif, a fool, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+lpsmith arrives, full of funk, but no fun.
+brenbarn says, "hmm"
+jwalrus asks, "what do fools identify other fools as?"
+floyd | current players (5):
+floyd | gunther has 0 votes and hasn't yet voted.
+floyd | brenbarn has 0 votes and hasn't yet voted.
+floyd | jwalrus has 0 votes and hasn't yet voted.
+floyd | boingball has 0 votes and hasn't yet voted.
+floyd | lonecleric has 0 votes and hasn't yet voted.
+floyd |
+gunther says (to jwalrus), "no idea"
+boingball says (to jw), "same, prolly"
+brenbarn says, "random, i assume"
+boingball says, "or random"
+jwalrus says, "random, i guess"
+lpsmith asks, "you have more than one fool?"
+lpsmith says, "heh."
+gunther says (to lpsmith), "2/2/2"
+boingball says, "well, not any more"
+jwalrus says (to lpsmith), "2 fools, 2 seers, 2 wolves"
+jwalrus says, "we're crazy"
+boingball says, "now the foolish hloif is dead"
+lpsmith says, "that's hilarious."
+gunther says (to lpsmith), "yes"
+hloif wasn't foolish.
+gunther says, "ok, if i'm a seer and not a fool, then brenbarn is a wolf."
+boingball says (to gunther), "and if i'm a seer and not a fool, you're a wolf."
+jwalrus says, "assuming we believe gunther, that means bren isn't a seer"
+brenbarn says, "if i'm a non-foolish seer, jwalrus is a seer."
+jwalrus says, "ok, then gunther is a wolf, i think"
+brenbarn says, "whoa, this is truly weird"
+lpsmith asks, "don't fools id seers as fools?"
+jwalrus says (to lps), "yes"
+floyd | jwalrus votes to lynch gunther.
+boingball says, "maybe fools id fools as seers too"
+lonecleric says, "gunther isn't saying much."
+brenbarn says, "ooh, wait."
+gunther says, "aiee, hey"
+floyd | boingball votes to lynch gunther.
+brenbarn says, "well, i botched this."
+jwalrus says (to boing), "that's what i'm not sure about. we'd have to ask thumper to be sure, but i'm guessing it's random"
+brenbarn says, "no, wait, i didn't"
+jwalrus says, "ok, so wait"
+boingball says (to brb), "we'll lynch you anyway"
+jwalrus says, "there can only be two fools"
+brenbarn asks (of bgb), "why?"
+floyd | gunther votes to lynch jwalrus.
+brenbarn says (to jwal), "only one, now"
+boingball says, "joking, joking"
+jwalrus says, "if boing is a seer, gunther is a wolf"
+gunther says, "jw is apparently the other wolf"
+lonecleric says, "if i'm a seer and not a fool, then gunther's a wolf, too."
+jwalrus says, "if i am a seer, gunther is a wolf"
+gunther says, "since he tries to discredit me"
+jwalrus says, "if lc's a seer, gunther is a wolf"
+brenbarn says, "let's try this again: if i am a seer, jwalrus is a fool."
+jwalrus says, "if okb's a seer, gunther is a wolf"
+boingball says, "sounds like gunther is a wolf"
+gunther says, "i'm not a fucking wolf"
+brenbarn says, "so you're single"
+jwalrus asks (of okb), "what? a moment ago you said i was a seer?"
+floyd | gunther changes vote from jwalrus to brenbarn.
+brenbarn says (to jwal), "um, well, see, i guess i did botch it -- hey, wait!"
+gunther says, "ok, he slipped up again. i don't believe him anymore."
+jwalrus says, "i think it's bren and gunther"
+floyd | lonecleric votes to lynch gunther.

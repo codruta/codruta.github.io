@@ -1,0 +1,104 @@
+waldo | a new game begins with 9 players composed of 2 werewolves, 1 seer, 1
+waldo | devil, and 5 villagers.  now it is night; time for the werewolves to
+waldo | kill, the seer to identify, the devil to identify and the rest to
+waldo | sleep.
+waldo | brenbarn, a villager, is discovered lounging by the town gates, behind
+waldo | the tavern, in the bushes, across the town square, and at home.
+waldo | it is now day. time to vote on whom to lynch.
+maga_dogg says, "eek"
+maga_dogg says, "poor bren"
+hloif says, "ack."
+brenbarn says, "argh"
+julian says, "see?  i was right."
+ender asks (of julian), "right about what?"
+ctate asks (of julian), "huh?"
+julian says, "about brenbarn being a villager."
+andyf asks, "so, any ideas?"
+maga_dogg says (to julian), "floyd also does that"
+marvin says, "alright, who done it? own up."
+hloif says, "poor brenbarn."
+ctate says (to marvin), "heh"
+julian asks (of marvin), "the question is:  who had motive, opportunity, and the murder weapon?"
+miseri arrives, full of neither funk nor fun.
+julian asks, "i think that everyone had motive, and opportunity, but which of us had the claws?"
+maga_dogg says (to marvin), "no, the traditional way of doing that is by voting randomly and too fast"
+miseri says, "aw."
+marvin says, "nobody's leaving until one of you owns up. i can stay here all day."
+waldo | maga_dogg votes to lynch marvin.
+waldo | marvin votes to lynch maga_dogg.
+waldo | julian votes to lynch maga_dogg.
+maga_dogg says (to marvin), "you can hang here until nightfall, if that's the way it goes"
+new default channel: media/books/books
+hloif looks at marvin incredulously.  "what if we had to stay here all night, hmmmm?"
+waldo | maga_dogg retracts a vote for marvin.
+julian says, "timing, hah."
+waldo | julian changes vote from maga_dogg to andyf.
+ender says, "i've got plenty of time."
+julian says, "um, no i didn't.  stupid waldo."
+waldo | marvin retracts a vote for maga_dogg.
+ender says, "anything to avoid work."
+schep says (to julian), "it's 'unvote'"
+ender asks (of julian), "so now you're blaming waldo, huh?"
+waldo | julian retracts a vote for andyf.
+julian says (to schep), "thankee."
+waldo | andyf votes to lynch julian.
+andyf says, "gotta maintain that balance."
+julian says (to andyf), "uh huh."
+waldo | andyf retracts a vote for julian.
+maga_dogg says, "well, that was useless"
+marvin says, "well, this is silly. we need to vote for somone."
+ctate asks, "i bet people don't want to play iias...?"
+ender asks, "all right, so... has anyone said anything relevant?"
+julian says, "i would like to point out that, in my experience, werewolves are foolishly silent, and that ctate, hloif, and maga_dogg have all been very silent."
+andyf asks, "so, anyone say anything odd right after the killing?"
+hloif says (to ctate), "i normally prefer not to."
+maga_dogg says (to julian), "like hell i have"
+marvin asks (of hloif), "er, why?"
+hloif says (to marvin), "i just don't really enjoy it."
+schep says, "well, i will."
+julian says, "maga_dogg tried to instigate a lynching, so..."
+waldo | julian votes to lynch maga_dogg.
+waldo | andyf votes to lynch julian.
+schep says, "if i'm the seer, then i knew brenbarn was a villager."
+maga_dogg says (to julian), "it was a joke and i was bored"
+marvin says, "iias is helpful, though."
+andyf says, "you're trying too hard, i think."
+hloif says (to julian), "you do seem pretty eager to lynch someone..."
+andyf says, "(er, to julina)"
+julian peers suspiciously at hloif.
+maga_dogg says (to julian), "also, you are voting on no evidence at all, which is quite all right on the first round as long as it isn't voting for me"
+marvin says, "if i am the seer, julian is a villager."
+ctate says, "heh"
+julian exclaims, "this isn't no evidence!  this is lengthy werewolve experience!  i *know* these creatures!"
+julian says, "well, that was the wrong thing to say."
+waldo | hloif votes to lynch julian.
+julian exclaims, "hloif!  ahah!"
+waldo | maga_dogg votes to lynch julian.
+julian exclaims, "and maga_dogg!"
+ender says (to julian), "yeah, you're annoying me now."
+waldo | marvin votes to lynch maga_dogg.
+julian says, "both of them werewolves."
+maga_dogg says (to julian), "unless you have taken acid, you are acting much too hyper"
+waldo | ender votes to lynch julian.
+maga_dogg says, "and we all know how much wolves love acid"
+hloif asks (of maga_dogg), "we do?"
+ender asks, "man, what does it take to kill this guy?"
+schep says, "hmm. random on-jumper."
+maga_dogg says (to hloif), "no, but we conjecture randomly to suit our ends"
+waldo | schep votes to lynch ender.
+waldo | current players (8):
+waldo | hloif has 0 votes and votes to lynch julian.
+waldo | schep has 0 votes and votes to lynch ender.
+waldo | ender has 1 vote and votes to lynch julian.
+waldo | marvin has 0 votes and votes to lynch maga_dogg.
+waldo | ctate has 0 votes and hasn't yet voted.
+waldo | julian has 4 votes and votes to lynch maga_dogg.
+waldo | maga_dogg has 2 votes and votes to lynch julian.
+waldo | andyf has 0 votes and votes to lynch julian.
+waldo |
+julian says, "oh, fine, i'll be quiet.  but i'm not a werewolf, and if you lynch me you'll be 4-to-2, and then 2-to-2, and then you'll be dead.  so there."
+hloif says (to maga_dogg), "that works, too."
+ender asks (of schep), "random?  what?"
+ctate says, "woah, i have to vote?  suck."
+hloif says (to julian), "you're just not making a very good case for being innocent, that's all."
+waldo | ctate votes to lynch julian.

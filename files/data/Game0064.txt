@@ -1,0 +1,50 @@
+floyd | a new game begins with 9 players composed of 1 werewolf, 1 seer, and 7
+floyd | fools.  now it is night; time for the werewolf to kill, the seer to
+floyd | identify, the fools to identify and the rest to sleep.
+gunther says, "yay, no esplosion"
+(from golrien) floyd go boom!
+floyd | maga_dogg, a fool, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+</buzzard> buzzard has disconnected from ifmud.
+boingball says (to gunther), "d[ ;998899 ** library error ***''' qbq"
+schep says, "argh."
+maga_dogg says, "ow"
+hloif says, "gah."
+dfan has had his fill of playing for now, and goes back to the lounge.
+maga_dogg says, "you fuckers"
+brenbarn says, "okay, question:"
+brenbarn asks, "if you id someone as a seer, doesn't that mean they're the wolf?"
+schep says, "iias maga_dogg = fool, but you knew that."
+gunther says, "no"
+gunther says, "iias, ctate is a fool."
+josh_g says, "if i'm a seer, schep is a seer. so, that's meaningless"
+golrien says, "iias, ctate is a seer."
+brenbarn says, "i ided gunther as a fool"
+ctate says, "iias maga_dogg = seer"
+brenbarn says, "all this is meaningless"
+boingball says (to brb), "ditto"
+ctate says, "which is sort of strange :)"
+schep says (to josh_g), "so you're not the seer. oh, and neither am i. aha."
+maga_dogg says, "fools are totally random, except if they id seers, in which case they always get fool."
+gunther says (to brenbarn), "yes, but that's always true"
+hloif says, "if i'm the seer, gunther is a fool."
+golrien says, "yeah /s/seer/fool/"
+boingball says, "so me, brenbarn and hloif all ided gunther"
+brenbarn says (to gunther), "unless there are mutliple seers"
+boingball says, "as a fool"
+gunther says (to brenbarn), "meta-game joke"
+schep asks (of hloif), "did it say 'seer' or 'fool'?"
+golrien says, "let's just vote hloif"
+gunther says (to golrien), "ha"
+golrien says, "for randomness"
+hloif asks, "huh?"
+floyd | golrien votes to lynch gunther.
+ctate says (to golrien), "heh"
+floyd | gunther votes to lynch golrien.
+floyd | josh_g votes to lynch gunther.
+floyd | boingball votes to lynch golrien.
+floyd | josh_g changes vote from gunther to golrien.
+gunther says, "hey, i'm a seer/fool"
+floyd | golrien changes vote from gunther to golrien.
+boingball says (to gunther), "yeah, y'are"
+floyd | ctate votes to lynch golrien.

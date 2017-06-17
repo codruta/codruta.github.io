@@ -1,0 +1,59 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | wolfsbane carrier, 1 mafia, 1 archangel, and 1 villager.  now it is
+floyd | night; time for the werewolf to kill, the seer to identify, the
+floyd | wolfsbane carrier to protect, the mafia to kill, the archangel to
+floyd | protect and the rest to sleep.
+floyd | brenbarn, a villager, is found as a heap of gnawed bones.
+floyd | hloif, a archangel, is discovered lounging by the town gates, behind
+floyd | the tavern, in the bushes, across the town square, and at home.
+floyd | it is now day. time to vote on whom to lynch.
+hloif says, "eep."
+jwalrus says, "so, the wolf killed hloif"
+brenbarn croaks
+boingball says, "apparently"
+jwalrus says, "or, hloif was silly"
+parsergirl says, "eww."
+penguin asks (of jw), "which is more likely?"
+boingball says, "so the normal villager is dead"
+penguin says, "guess it doesn't matter."
+hloif asks, "what?  huh?  what about me?"
+penguin says (to hloif), "you're dead."
+jwalrus says, "not that knowing who killed hloif is likely to make a difference"
+parsergirl says, "so we've got a seer, mafia, wolf, and a baner"
+penguin says, "dead men tell no tales, hloif."
+floyd | boingball votes to lynch parsergirl.
+hloif says, "wait..."
+brenbarn says, "more speedwolf"
+penguin says (to brenbarn), "yay"
+jwalrus says, "no, let's think"
+hloif is dead and confused.
+floyd | parsergirl votes to lynch boingball.
+jwalrus says, "seer is likely to die tonight if we mislynch, as is baner"
+jwalrus says, "or tomorrow"
+boingball says (to pg), "two wrongs don't make a right"
+jwalrus asks, "so should we fess up?"
+penguin says (to jw), "assuming seer identifies self."
+parsergirl says (to bb), "no, but it evens the field"
+jwalrus says (to penguin), "i mean, cause the wolves or mafia will outnumber villagers"
+penguin says, "oh."
+penguin says, "i'm seer. jw is baner."
+boingball says (to pg), "the whole world would be blind, toothless, and fieldless"
+floyd | penguin votes to lynch boingball.
+jwalrus says, "wait"
+jwalrus says, "we have to kill the mafia"
+parsergirl asks (of boingball), "fieldless?"
+penguin says (to jw), "oh yeah. i forgot."
+brenbarn laughs.
+boingball says, "i don't know. i'm ill. leave me alone."
+jwalrus says, "if we kill the wolf, we lose, i think"
+jwalrus says, "this is complicated"
+jwalrus says, "if we kill the mafia, it's fifty-fifty"
+penguin asks (of jw), "so, is it boingball or parsergirl?"
+boingball asks, "so follow the trail of italian stereotypes?"
+jwalrus says, "well, we want to kill the one less likely to kill hloif"
+jwalrus says, "and more likely to kill brenbarn"
+boingball says, "so not me, then"
+parsergirl says, "hey, why would it be one of us? penguin could be lying"
+floyd | jwalrus votes to lynch parsergirl.
+jwalrus says, "but i know i'm baner"
+floyd | penguin changes vote from boingball to parsergirl.

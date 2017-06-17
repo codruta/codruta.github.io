@@ -1,0 +1,67 @@
+floyd | a new game begins with 11 players composed of 3 werewolves, 1 seer, 1
+floyd | fool, 1 wolfsbane carrier, and 5 villagers.  now it is night; time for
+floyd | the werewolves to kill, the seer to identify, the fool to identify,
+floyd | the wolfsbane carrier to protect and the rest to sleep.
+brenbarn says, "fool is fine, i guess, but masons are cooler"
+devil asks, "let's try it and see?"
+devil says, "timing."
+brenbarn says, "uh, i guess someone decided to go"
+brenbarn says, "that's cool"
+stacey says, "i guess we have no choice now"
+boingball says, "we could always quit and restart"
+josh_g got bored.
+ender says, "is idle a sec and holding things up.  sorry."
+stacey says (to josh_g), "bah humbug"
+</hugo> hugo has disconnected from ifmud.
+boingball asks, "how many boards would josh_g hoard if josh_g got bored?"
+josh_g says, "boreds of canada"
+<ander> having lost the ability to communicate completely, ander connects to ifmud.
+floyd | current players (11):
+floyd | brenbarn boingball maga_dogg josh_g bishop stacey marvin parsergirl
+floyd | devil hloif ender
+stacey says, "c'mon ender"
+bishop says, "yo, whoever's holding stuff up, do something."
+boingball says, "ender"
+josh_g did his thing already, and idles.
+ender says, "sorry, was in conversation on channel."
+floyd | brenbarn, a villager, grins up at you from a lifeless skull.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says (to ender), "on #wolves-only, no doubt!"
+devil says, "if only the wolves had killed ender"
+maga_dogg says, "ack"
+brenbarn says, "aw"
+marvin says, "aww."
+boingball says, "bad luck old sport"
+floyd | marvin votes to lynch boingball.
+josh_g cries a tear for brenbarn.
+floyd | boingball votes to lynch marvin.
+hloif says, "poor brenbarn."
+boingball says, "and relax"
+devil says, "ah, the recriminations begin."
+stacey says, "at least he died happy"
+devil asks (of stacey), "we know this how?"
+boingball says, "he's grinning"
+stacey says, "he's grinning"
+devil says, "heh."
+parsergirl says, "a little skeletal humor, folks."
+stacey says, "hyuk"
+floyd | josh_g votes to lynch parsergirl.
+maga_dogg says (to stacey), "that's not his mouth, that's a wolf bite"
+devil says, "we might want to lynch..timing."
+floyd | parsergirl votes to lynch josh_g.
+boingball says, "i like the way it says 'lifeless skull.' if it just said skull, we'd all be saying "but maybe his skull is still alive!""
+stacey exclaims, "ha!!!!"
+parsergirl says (to josh_g), "it's shameless the way we flirt."
+devil says (to bb), "ha!"
+devil says (to parser), "get a room/grave."
+josh_g says (to pg), "so true"
+ender realizes nobody is lynching him immediately for holding up the game, and breathes a sigh of relief.
+maga_dogg says (to boingball), "well, technically if he was alive and grinning, his skull would be grinning too"
+stacey says (to pg), "you two are like that couple in  the movies that fights and fights, but eventually you see the real reason..."
+floyd | bishop votes to lynch ender.
+floyd | devil votes to lynch ender.
+floyd | maga_dogg votes to lynch ender.
+</whizzard> markov says, "awwwk! word on the dark side of toast."
+floyd | stacey votes to lynch ender.
+floyd | boingball changes vote from marvin to ender.
+floyd | hloif votes to lynch ender.

@@ -1,0 +1,198 @@
+floyd | a new game begins with 9 players composed of 2 werewolves, 1 seer, 2
+floyd | fools, 1 wolfsbane carrier, 1 devil, and 2 villagers.  now it is
+floyd | night; time for the werewolves to kill, the seer to identify, the
+floyd | fools to identify, the wolfsbane carrier to protect, the devil to
+floyd | identify and the rest to sleep.
+hloif says (to ellison), "werewolf is always wacky on ifmud."
+lno says, "i'm also drunk and tired"
+lno says, "so i'm a wolf"
+lno says, "wait, too early to say that"
+lno lags.
+lno says, "jeeees i lagged"
+brenbarn says, "whoa, substantial lag here too"
+floyd | hloif, a devil, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "yay no devil"
+rob says, "yay"
+thumper says, "yay"
+lurd says, "i am one of only two villagers"
+lonecleric exclaims, "whoohoo!"
+ellison says, "sorry, hloif...  but satan begone"
+andyf says, "woo."
+(from hloif) if hloif were alive, he'd be glad he was dead, because he sucks at playing the devil anyway.
+lno says, "yay"
+andyf says, "now, let the mob violence begin!"
+lno says, "i am the other of two villagers. lagged, but still a villager."
+lonecleric asks, "is there some wacky game mechanic since last week?"
+brenbarn says, "pshaw"
+lonecleric asks, "i mean, some standard way to do stuff i might not know of?"
+rob says, "cooter, the village car mechanic"
+thumper says, "i'm one of the seeools.  i pointed at ellison, who is not a wolf."
+lurd exclaims (at rob), "yay!!!"
+lno says, "yeehaw"
+ellison says, "my brother is easily bored by peaceful antics, so we should kill somebody (but not me since otherwise he'll lose interest and leave)"
+floyd | andyf votes to lynch ellison.
+rob says, "ok let's get lurd then"
+floyd | andyf retracts a vote for ellison.
+floyd | lurd votes to lynch rob.
+floyd | ellison votes to lynch andyf.
+floyd | rob votes to lynch lurd.
+lurd says (to rob), "no cookies for you"
+andyf asks, "hmm. why lurd?"
+floyd | ellison changes vote from andyf to lurd.
+rob says, "because he's a wolf"
+floyd | lno votes to lynch lurd.
+lonecleric says (to andyf), "he claimed villager."
+lurd says, "nuh uh"
+lno says, "sure, ok"
+brenbarn asks, "what?"
+floyd | andyf votes to lynch lurd.
+lonecleric says (to andyf), "i'd rather vote for someone who claims villager."
+floyd | ellison retracts a vote for lurd.
+lno asks (of ellison), "who's yor brother?"
+ellison says (to lno), "david blask"
+andyf says, "well."
+lonecleric says (to andyf), "well, i'd vote for someone who'd claim wolf, but that won't happen."
+lurd says, "a lagged villager is a dead villager"
+lurd says, "rob is a wolf"
+ellison says, "lots o' lag"
+ellison says, "sometimes i claim wolf when i'm not...  i'm totally unpredictable"
+lno says, "oh, i thought he was online as a player."
+rob asks (of lurd), "what do you have to say for yourself, wolf?"
+floyd | ellison votes to lynch lurd.
+thumper asks, "are other people deciding to claim seeoolishness?"
+floyd | lno changes vote from lurd to rob.
+floyd | ellison changes vote from lurd to rob.
+brenbarn says (to ellison), "by gad, sir"
+ellison says, "i'm also a seer"
+rob says, "oh sure, believe lurd but not me"
+floyd | andyf retracts a vote for lurd.
+brenbarn says, "hmm"
+lurd says (to rob), "bwa ha ha, the tide is turning robwolf"
+andyf says (to lurd), "hang on a sec."
+rob says (to lurd), "listen fang-boy, i can defend myself"
+</josh_g> most of you are probably wondering what effect all of this exploration will have on the paradigm.  all i can tell you is that the word on the street is an astounding "wow".
+andyf says (to lurd), "that was a conveniently timed claim."
+<oren> oren has connected to ifmud.
+lonecleric asks (of lurd), "why would you accuse rob, though?"
+floyd | ellison changes vote from rob to lurd.
+thumper asks, "and the third seer?"
+lurd challenges rob to a sheep eating contest. i quit at 0. let's see what you can do.
+ellison says, "i'm so easily convinced"
+lno says, "let's just get a good ol' lynchin' going"
+lno says, "much like earlier tonight, when i saw blazing saddles for the first time"
+floyd | andyf votes to lynch lurd.
+ellison asks, "didn't rob accuse lurd first?"
+lurd says (to lc), "because he jumped right on me for no reason"
+(from lno) sheriff says, "hey, where's all the white women at?"
+rob says (to lurd), "i'm a peaceful vegetarian"
+lonecleric asks, "i only saw thumper? who's second seer?"
+rob says, "well, ellison wanted some action"
+lno says, "wait, i thought thumper said ellison was a villager"
+rob says, "and i chose you because of your shifty ways"
+ellison says, "i'm a seer, too, and i pity da fool who thinks i'm a fool"
+thumper says (to lonercleric), "ellison and i.  i can confirm ellison, as i pointed him last night."
+ellison says, "he said i'm not a wolf, which is also true"
+lurd says, "i am not shifty. look, i am standing still."
+(from andyf) rob says, "also, he stole my cookies!"
+lonecleric says, "well, i'm 3rd."
+thumper says (to lno), "i said he wasn't a wolf."
+brenbarn says, "well, thumper could be a fool"
+lonecleric says (to thumper), "i saw you as a fool, though."
+lno says (to thumper), "yeah, true. we'll lynch you tomorrow."
+ellison says, "we should form a team of superhero seers"
+ellison says, "we can be seer and fools inc."
+rob asks, "could we all just decide that lurd is a wolf and get things moving?"
+andyf says, "wait, someone's lying here."
+thumper asks (of lno), "huh?"
+lonecleric asks (of thumper), "could you see ell as a fool if you were a fool yourself?"
+lno says, "oops, didn't mean to say that out loud."
+andyf says, "because i'm a seer/fool/crackhead."
+lno says, "well, we need some lynchin'."
+floyd | lno changes vote from rob to lurd.
+lno says, "that gives lurd an even four of eight"
+lurd says (to rob), "if i go, rob must go tomorrow"
+rob says, "ok"
+rob says, "wolf"
+thumper says (to lonecleric), "yes."
+brenbarn asks (of thumper), "you can?"
+ellison asks, "wait, so who are we going to kill?"
+andyf asks, "hmm. is a consensus emerging for lurd?"
+lurd says (to rob), "my blood is on your hands, erm paws."
+lonecleric says, "so we have 4 claimed seeools."
+ellison says, "i'm pretty sure we've narrowed it down to one syllable names"
+andyf says (to lc), "yeah."
+brenbarn asks, "i thought fool sees other fools as seers?"
+andyf says, "one of 'em must be wrong."
+andyf says (to bb), "yeah."
+ellison asks, "who all claimed seer?"
+lonecleric asks, "is there some lying rule about the way fools work, again?"
+thumper says (to brenbarn), "they do.  but we have one seer."
+rob says, "not i"
+ellison says, "oh, i see"
+andyf says, "me."
+lonecleric says (to ell), "thumper, you, andyf, me."
+brenbarn says, "ah"
+thumper says (to ellison), "you, i, and lonecleri are the seeools."
+brenbarn says, "hmm"
+ellison says, "well, i believe thumper...  but he would also know that i'm not a wolf if he's a wolf"
+lonecleric asks (of andyf), "well, who did you check?"
+thumper asks, "andyf is claiming seerhood also?"
+ellison says, "which would be tricky, but thumper's a smart guy..."
+andyf says, "i pointed at lno, got 'villager'."
+ellison says, "we should start lynching people by their intelligence"
+brenbarn asks, "hmm, why are we suspecting lurd again?"
+rob says, "because he's a wolf"
+lno says (to andyf), "you're a seer. good for you."
+lurd says, "cuz rob is shifty"
+lonecleric asks (of ell), "could i see him as fool if i was fool, if he's wolf?"
+andyf says (to bb), "to give ellison's bro some blood!"
+ellison says, "i pointed at lno and got 'villager' too"
+ellison says, "so i don't know what that means"
+rob says (to lurd), "silence, fuzzball"
+floyd | andyf changes vote from lurd to lurd.
+thumper says (to lonecleric), "if you're a seer, you'll never identify a wolf as a fool."
+floyd | ellison retracts a vote for lurd.
+andyf says, "oh, wait."
+rob says (to andyf), "change your vote to lurd while you're at it"
+ellison asks, "does that mean lno is a wolf?"
+lonecleric asks (of thumper), "well, no. i'm asking if i'm a fool?"
+lno says, "no"
+brenbarn asks (of thumper), "neither will you do so if you're a fool, right?"
+lno says, "i'm a frickin' villager"
+lurd says (to rob), "i hope you choke on a villager bone tonight"
+lno says, "let's lynch somebody"
+rob says, "i'd be willing to change to lno, although i have a lot invested in the lurd bandwagon"
+(from brenbarn) lno votes to lynch lno
+andyf says, "well, i wanted to vote for henry kissinger, but floyd wasn't up for it."
+floyd | lno changes vote from lurd to lno.
+lno exclaims, "ok!"
+lno says (to brenbard), "sigh, lag."
+(from brenbarn) brenbard sings a sad ballad of werewolves massacring helpless villagers.
+ellison says, "i am so thoroughly confused"
+rob asks, "lurd has 2 votes?"
+andyf says, "well, chances are good that i'm a fool, but i did see lno as a villager."
+andyf says, "so i'm reluctant to vote for him."
+floyd | ellison votes to lynch lurd.
+ellison says, "my brother, although amused by all of this, now is asking for blood"
+brenbarn says, "i don't know who to suspect."
+rob says, "suspect lurd"
+lurd says, "tis nobler to die an innocent villager than to be a lying wolf, roba"
+lurd says, "oops"
+brenbarn says (to rob), "i suspect you, actually, because you're so bloodthirsty."
+hloif has had his fill of playing for now, and goes back to the lounge.
+floyd | lno changes vote from lno to lurd.
+thumper says (to ellison), "tonight, point at either lonecleric or andyf."
+rob says, "move-the-game-along-thirsty"
+thumper says (to ellison), "and thus find which is the liar."
+lurd says, "chances are the two wolves have already voted for me. remember that folks"
+ellison says (to thumper), "will do"
+ellison flashes seer symbols
+brenbarn says, "man, floyd is lagging more than i am."
+lurd says, "because if they hadn't the last wolf could just jump in and end it"
+lurd says (to rob), "i will prove it"
+andyf says (to bb), "mmm, blood. oh, wait."
+brenbarn asks (of thumper), "so who do you think it is?"
+ellison asks, "do fools see other seers as fools?"
+lno says, "well, ell, andyf, and i are voting for lurd. i'm villager, and maybe ell and andyf are seeools. or, since they both saw me as a villager, one may lie."
+floyd | lurd changes vote from rob to lurd.

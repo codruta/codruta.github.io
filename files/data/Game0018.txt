@@ -1,0 +1,31 @@
+floyd | a new game begins with 7 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, and 3 villagers.  now it is night; time for the
+floyd | werewolves to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+</crandriel> crandriel has disconnected from ifmud.
+floyd | no one died the previous night.
+floyd | it is now day. time to vote on whom to lynch.
+schep says, "alright"
+boingball says, "yay baner"
+ender says, "again!  yay!"
+brenbarn says, "wow, again!  how awesome"
+ender says, "so... here we are..."
+ender scoops up the dice, and rattles them a bit.
+ender says, "red die"
+esrom pulls the string on the ddyte doll.
+ddyte doll exclaims, "kiz!!!"
+ender rolls a pair of dice on the floor. the red one comes up 1, and the green one comes up 4.
+ender watches the dice.
+floyd | ender votes to lynch brenbarn.
+schep says, "but there are 7 of us."
+floyd | brenbarn votes to lynch ender.
+floyd | marvin votes to lynch boingball.
+brenbarn says, "it's not me"
+floyd | boingball votes to lynch marvin.
+ender says (to schep), "obviously i'm not gonna lynch myself"
+parsergirl says, "hmm."
+schep says (to ender), "but i might want to."
+floyd | parsergirl votes to lynch ender.
+floyd | esrom votes to lynch ender.
+ender says, "wait"
+floyd | boingball changes vote from marvin to ender.

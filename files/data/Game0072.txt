@@ -1,0 +1,34 @@
+floyd | a new game begins with 7 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, and 3 villagers.  now it is night; time for the
+floyd | werewolves to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+maga_dogg says (to lt), "no, you're still a member"
+floyd | trikiw, a villager, is found scattered around the village.
+floyd | it is now day. time to vote on whom to lynch.
+brenbarn says, "hmm"
+trikiw says, "gah"
+maga_dogg says, "ow"
+lucenttrans says, "well, at least it wasn't the seer."
+thrax asks, "should we play 'if i'm the seer'?"
+maga_dogg says, "yeah, for what it's worth"
+brenbarn asks, "now, see, if we're wrong here, and baner doesn't guess right, we lose, right?"
+schep says (to brb), "yeah"
+brenbarn says, "hmm"
+maga_dogg says, "iias, thrax is a wolf."
+lucenttrans says, "iias, brenbarn is innocent."
+brenbarn says, "okay, i have to eat soon"
+thrax says (to maga), "clearly you're not."
+brenbarn says, "and since our lives are at stake, i'll say this:"
+thrax says, "iias, lucenttrans is innocent."
+brenbarn says, "i am the seer, and schep is a wolf"
+brenbarn says, "now the baner can randomly choose to protect either himself or me"
+maga_dogg asks, "okay, any other seer claimants?"
+thrax asks (of schep), "and you are?"
+schep says, "erm, no. i'm a villager."
+thrax says, "i think we have a winner."
+maga_dogg asks, "no?"
+floyd | thrax votes to lynch schep.
+floyd | maga_dogg votes to lynch schep.
+schep says, "brenbarn obviously thinks he can confuse everyone enough to pull off a one-round win"
+floyd | boingball votes to lynch schep.
+floyd | brenbarn votes to lynch schep.

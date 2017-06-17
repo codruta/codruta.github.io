@@ -1,0 +1,137 @@
+floyd | a new game begins with 8 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, 1 devil, and 3 villagers.  now it is night; time
+floyd | for the werewolves to kill, the seer to identify, the wolfsbane
+floyd | carrier to protect, the devil to identify and the rest to sleep.
+brenbarn says, "oh well"
+golrien says, "bah"
+floyd | no one died the previous night.
+floyd | it is now day. time to vote on whom to lynch.
+ctate says, "woah"
+maga_dogg says, "yay"
+brenbarn says, "excellent!"
+thrax exclaims, "yay baner!"
+hloif says, "wow."
+schep says, "yay"
+golrien says, "yay"
+gunther says, "w00t"
+brenbarn says, "but once again we know nothing"
+brenbarn says, "this seems to be happening a lot"
+hloif says, "well, the wolves know something."
+gunther says, "thus, baners suck"
+ctate says, "as does the baner and the seer :)"
+brenbarn says, "unless they -- well, we've been over this"
+schep says, "that's because we always know nothing first round."
+maga_dogg says, "and the devil"
+golrien says, "so it's to random voting again."
+ctate says (to maga), "yeah"
+maga_dogg says, "now we all cower in fear, not wanting to be the first to vote and thus get piled upon"
+floyd | ctate votes to lynch ctate.
+ctate says, "oops :)"
+floyd | ctate retracts a vote for ctate.
+brenbarn says (to ctate), "so you're the wolf, eh!"
+ctate says (to brenbarn), "gnope"
+brenbarn says, "just kidding"
+maga_dogg says, "ah, so there is a fool in this game after all"
+ctate says (to maga), "heh"
+gunther says, "snrk"
+golrien rolls six dice-sided dice, and gets 1(1), 1(2), 1(3), 1(4), 1(5), 1(6).
+ctate says (to maga), "see if i send you any more bug reports... ;)"
+brenbarn says, "wrong dice"
+golrien says, "bah"
+brenbarn says, "no fool"
+ctate says, "if i'm the seer, maga_dogg is a wolf."
+<andyf> zrblm.
+gunther says, "if i'm the seer, brenbarn is innocent"
+brenbarn says, "okay, if i'm the seer, maga_dogg is the devil"
+</veek> will you / will to / love too? / will you?
+golrien says, "if i'm the baner, gunther is a wolf."
+schep says, "if i'm the seer, golrien is good."
+ctate says (to golrien), "heh"
+brenbarn says (to golrien), "don't be silly"
+maga_dogg says, "if i'm the seer, schep is the baner."
+thrax says, "if i'm seer, hloif is a villager."
+hloif says, "if i'm the seer, maga_dogg is guilty."
+maga_dogg exclaims, "hey!"
+ctate asks, "so what does this buy us?"
+thrax says (to ctate), "not much right now, but possible insight later on."
+hloif says (to ctate), "the same thing iiats always buys us.  nothing."
+schep says, "it seems a lot of nasty things were said about maga_dogg."
+floyd | golrien votes to lynch maga_dogg.
+brenbarn says, "true"
+floyd | ctate votes to lynch maga_dogg.
+floyd | hloif votes to lynch maga_dogg.
+brenbarn says, "let's not get hasty"
+maga_dogg says, "wait wait"
+maga_dogg says, "ok, coming clean: i'm the seer, thrax is the devil. i lied earlier on to avoid letting him know i was the seer, since i knew i was unlikely to get baner protection because the wolves know who the baner is."
+ctate asks (of maga), "they do?"
+hloif asks (of maga_dogg), "why should we believe you?"
+thrax says, "hmmm? i'm a villager."
+golrien says, "so *someone* is lying."
+thrax says, "i dunno what maga is."
+schep says, "unvote before someone evil kills him."
+floyd | ctate retracts a vote for maga_dogg.
+brenbarn says, "uh-oh"
+golrien says, "and knowing how trustworthy maga is..."
+floyd | golrien retracts a vote for maga_dogg.
+ctate says, "easy to find out in one move:"
+floyd | hloif retracts a vote for maga_dogg.
+floyd | ctate votes to lynch thrax.
+thrax asks (of maga), "also, why do the wolves know who the baner is?"
+brenbarn says (to ctate), "no"
+thrax says (to maga), "the baner wasn't necessarily protecting himself."
+hloif says (to thrax), "because they tried to kill someone and he didn't die, supposedly."
+ctate asks (of bren), "why not?"
+brenbarn says (to thrax), "he probably was"
+schep says, "nah, i believe him. don't lynch the devil."
+maga_dogg says (to ctate), "yes, no deaths last night, remember? a sensible baner always protects himself first turn"
+brenbarn says, "we were discussing this earlier.  there's really no reason to not protect yourself"
+gunther says, "if the baner was protecting himself, he should speak up now"
+brenbarn says, "on the first night"
+floyd | ctate retracts a vote for thrax.
+hloif asks (of gunther), "why?"
+ctate says (to maga), "nice to assume that everybody knows that...."
+brenbarn says (to ctate), "if he's devil, we don't want to waste time killing him"
+gunther says, "because it helps"
+hloif says (to gunther), "that would alert the wolves to who he is."
+maga_dogg says (to ctate), "sorry"
+hloif asks (of gunther), "how does it help?"
+ctate says (to maga), "(e.g. last game i didn't)"
+schep says, "there is a reason. and also the baner should not speak up."
+gunther says (to hloif), "the wolves know who he is because he didn't die"
+gunther asks (of schep), "no?"
+hloif says, "well, i don't think the baner should speak up, personally, but it's up to him."
+golrien says (to gunther), "the wolves have an idea who he is, but he could have protected someone else."
+golrien says (to gunther), "depends on how crafty he is."
+brenbarn says, "heh"
+hloif says (to golrien), "oh, right.  duh."
+schep says, "if there's a significant chance the baner will protect someone else, the wolves don't really know anything."
+brenbarn says, "mmm"
+schep says, "so it's not entirely stupid strategy."
+brenbarn says, "i still think a wise baner protects himself, because he knows it won't be wasted effort"
+ctate scoops up the dice, and rattles them a bit.
+ctate rolls a pair of dice on the floor. the red one comes up 4, and the green one comes up 6.
+ctate watches the dice.
+schep says, "probably best to protect yourself most of the time but not all the time."
+brenbarn says, "anyway, this is moot, since i agree it's not a good idea for baner to reveal himself"
+schep says, "if we're about to lynch the baner at some point later, by all means speak up."
+brenbarn says, "if we say 'baner reveals himself only if he protected himself', and no one reveals himself, then the wolves will know who the baner isn't"
+</andyf> .mlbrz
+gunther says, "so once again we are down to complete randomness"
+maga_dogg says, "ok. don't lynch me, because my heart is pure and i will bring you truth. don't lynch thrax, because we want to get wolves."
+ctate says, "especially since, if the baner was protecting someone else, he now knows a non-wolf as well as himself."
+floyd | hloif votes to lynch maga_dogg.
+floyd | ctate votes to lynch hloif.
+floyd | gunther votes to lynch hloif.
+floyd | hloif retracts a vote for maga_dogg.
+floyd | maga_dogg votes to lynch hloif.
+hloif exclaims, "stop!"
+brenbarn says (to ctate), "hmm, true"
+ctate says, "(which was my die roll anyway :)"
+golrien says, "yeah, maga is kind of suspicious."
+hloif exclaims, "i was just kidding!"
+thrax says, "definitely don't lynch me, because villager-lynching ain't no good."
+floyd | golrien votes to lynch maga_dogg.
+maga_dogg exclaims, "eeagh!"
+schep says, "mmf"
+floyd | thrax votes to lynch hloif.
+floyd | schep votes to lynch hloif.

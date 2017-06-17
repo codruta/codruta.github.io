@@ -1,0 +1,72 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | magistrate, and 3 villagers.  now it is night; time for the werewolf
+floyd | to kill, the seer to identify, the magistrate to protect and the rest
+floyd | to sleep.
+julian says, "ok."
+matthew asks (of schep), "don't like playing with a magistrate?"
+schep says, "wait, i confused magistrate and vigilante."
+floyd | brenbarn, a seer, looks like the result of using a blender in entirely
+floyd | the wrong way.
+floyd | it is now day. time to vote on whom to lynch.
+schep says, "ow"
+brenbarn says, "argh"
+julian says, "eep"
+maga_dogg says, "crud"
+julian says, "ok, no iias."
+maga_dogg says, "darn it"
+schep says, "it would be fairly pointless."
+maga_dogg says, "errr... this is tricky"
+julian says, "i'd suppose so... hm."
+julian asks, "i'm kinda still in favour of schep... hey, why hasn't anyone been protected?"
+maga_dogg asks, "wait, magistrate didn't protect?"
+<caleb> tunes in.
+julian says, "apparently not."
+schep says, "in favour? aw, how nice."
+maga_dogg says, "this makes life silly"
+julian asks, "err, favor?"
+schep says, "same thing"
+julian says, "oh, good."
+julian says, "actually, wise for the magistrate not to protect."
+schep asks, "you think so?"
+julian says, "well, statistically it'd be good, i guess."
+julian says, "certainly the magistrate could simplify the lynching by removing himself from the list of victims."
+schep asks, "shall we vote randomly then?"
+julian says, "sigh, yes."
+floyd | schep votes to lynch maga_dogg.
+floyd | maga_dogg votes to lynch schep.
+maga_dogg says, "a simple enough choice..."
+julian asks, "if i vote for either one of you, the werewolf (assuming that he is not one of you) will be the last necessary vote, yes?"
+schep says, "erm, maybe."
+schep says, "but jumping on immediately would be too obvious."
+schep says, "since there is tomorrow."
+julian says, "indeed."
+julian says, "i guess that's a good trap, for some other game =)"
+floyd | julian votes to lynch reillyb.
+floyd | reillyb votes to lynch julian.
+</adam> you must talk directly into the beak!
+maga_dogg says, "hmm"
+julian asks, "sigh.  does someone want to step forward as magistrate?"
+floyd | maga_dogg retracts a vote for schep.
+reillyb says, "i'm beginning to see a pattern here..."
+julian asks (of reillyb), "hm?"
+julian says, "oh, joke."
+floyd | julian retracts a vote for reillyb.
+floyd | reillyb retracts a vote for julian.
+matthew says, "hrm."
+julian says, "seriously, a known magistrate would help, and it would do the werewolf little good to kill the magistrate, i think."
+schep says, "no, the wolf would kill the magistrate, if it's a known innocent."
+julian asks (of schep), "why?"
+schep says, "i have to advise against revealed magistrate."
+matthew says, "okay, guys, you'd better lynch me.  i'm a villager, but i need to leave."
+maga_dogg says (to julian), "because it's better than killing someone who might potentially be a wolf"
+schep says, "the wolf always kills known innocents so that people have to vote on more unknowns."
+julian says, "sigh, ok."
+floyd | julian votes to lynch matthew.
+julian says, "oh, i see."
+schep says, "aw. suck game."
+reillyb says, "then the magistrate couldn't protect anyone"
+floyd | schep changes vote from maga_dogg to matthew.
+julian says, "we'll have a funner next round, maybe."
+matthew says, "sorry, i didn't know this one would go on so long or i wouldn't have started."
+julian asks, "um, one person vote for matthew?"
+floyd | maga_dogg votes to lynch matthew.

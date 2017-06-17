@@ -1,0 +1,161 @@
+floyd | a new game begins with 12 players composed of 2 werewolves, 1 seer, 1
+floyd | fool, 1 wolfsbane carrier, 1 devil, and 6 villagers.  now it is night;
+floyd | time for the werewolves to kill, the seer to identify, the fool to
+floyd | identify, the wolfsbane carrier to protect, the devil to identify and
+floyd | the rest to sleep.
+boingball says, "whatever"
+<parsergirl> from hell's curio cabinet, i peer at thee! from the suburban maw of bourgeoise horrors, i stare at thee!
+jarb says, "zzzzzzzzzzzzzzzzzz"
+dan_wood snores like hell.
+jwalrus says, "zzz"
+floyd | jarb, a villager, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+ryan says, "aww."
+jwalrus says, "aw, poor jarb"
+dfan says, "unfortunate"
+brenbarn says, "rats"
+dan_wood exclaims, "i call dibs on plover!"
+ryan says (to brenbarn), "no, probably wolves."
+jwalrus says (to dw), "hee hee"
+brenbarn says (to dw), "yay"
+floyd | marvin votes to lynch boingball.
+ctate says (to brenbarn), "yay"
+floyd | boingball votes to lynch marvin.
+ctate laughs.
+brenbarn asks (of ctate), "?"
+ender says (to dan_wood), "aha!  motive!"
+dfan says, "ah hm"
+floyd | ender votes to lynch dan_wood.
+ellison says, "i'm a mason, goddammit"
+ctate says (to brenbarn), "wrong person; i meant ryan."
+marvin asks, "anyone got any clues?"
+jwalrus says, "oh, you vote with "wf vote <person>", by the way"
+brenbarn says, "we need to play with masons, dude"
+dan_wood clambers over jarb's dead body and installs debian on plover.
+ryan says (to dw), "yaaaaaay!"
+ctate says, "hahahahaha!"
+ender says, "hah!"
+floyd | ender retracts a vote for dan_wood.
+jwalrus says, "ok, dw is obviously a good guy"
+ryan asks (of dw), "has he actually ever *said* 'over my dead body'?"
+dan_wood says (to ryan), "... come to think of it, he has."
+ellison says, "i think plover is now in the hands of weetabix"
+ryan says, "excellent."
+jarb asks, "heh, what exactly, is a lurking implementor?"
+ryan says, "ssh, dead man."
+ctate says, "heh"
+dfan says, "la di da"
+boingball says, "dead man lurkin'"
+jwalrus says, "oh yeah, rule one: no talking when dead"
+dan_wood stealthily covers the dagger in jarb's back.
+floyd | ryan votes to lynch jwalrus.
+jwalrus says, "now comes the finger-pointing"
+jwalrus asks (of ryan), "oi! why?"
+floyd | ellison votes to lynch jwalrus.
+floyd | marvin changes vote from boingball to ryan.
+ryan says (to jwalrus), "beats me."
+two-star arrives, full of neither funk nor fun.
+floyd | dfan votes to lynch marvin.
+floyd | dan_wood votes to lynch ryan.
+floyd | marvin changes vote from ryan to dfan.
+jwalrus asks (of ell), "why bandwagon-jumping?"
+inky says, "ha"
+two-star has had its fill of playing for now, and goes back to the lounge.
+ryan says, "hey, i'm a villager. i'm just trying to get the ball rolling here, since we have no clues."
+ellison says, "so that we might see the night sometime"
+ender asks, "should we play iias, or would that confuse too many newbies?"
+floyd | jwalrus votes to lynch ellison.
+brenbarn says, "aha, we're starting off nice and wacky"
+ctate asks (of ender), "iias?"
+jarb wreath-like skelatal hand clasps dan_woods neck and pulls him downward...
+dfan says, "no talking while dead please"
+jwalrus says (to ender), "it's confusing, and not always that fun"
+ctate says (to dfan), "i didn't hear him say anything.... :)"
+brenbarn says (to ctate), "it's this maneuver we do to help the villager's chances"
+ryan says (to dead_guy), "also, 'wraith'."
+brenbarn says, "let's skip the iias, at least for now."
+jwalrus says, "a wreath-like hand would be funny"
+ender says, "oh, yeah, everybody playing should make sure they're not on #wolf-watchers.  or at least mute it."
+marvin says, "yeah, let's just randomly lynch people."
+ender says (to jwalrus), "yeah, but i'm good at it."
+floyd | ender votes to lynch marvin.
+floyd | ellison changes vote from jwalrus to marvin.
+marvin says (to ender), "other people."
+ender says (to marvin), "ok."
+marvin says, "and that's not random."
+jwalrus says, "rule two is that whenever anyone says "let's randomly lynch people", we kill them"
+dan_wood asks, "what's the command to show votes?"
+boingball says, "wf who"
+jwalrus says (to dw), "wf who"
+brenbarn says (to jwal), "don't fill his head with nonsense"
+marvin says, "random != marvin."
+ellison says (to marvin), "but... but... the anagram of 'bible' is 'marvin'!"
+ender asks, "how many times has ellison done that now?"
+floyd | ctate votes to lynch marvin.
+floyd | marvin changes vote from dfan to ctate.
+(from jarb) you hear an echo from a ghost, "the dead man no talking rule is kind of goofy - it'd be more fun if dead guys _could_ talk."
+boingball says, "5 votes for marvin"
+floyd | ender retracts a vote for marvin.
+floyd | ctate retracts a vote for marvin.
+ender says, "don't want to kill him till i get an answer to my question:"
+ctate says, "oh, that works.  cool."
+ryan says, "i don't think it was ctate, because he was probably the villager who waited an excessively long time to type 'wf sleep', being new at this."
+floyd | ellison retracts a vote for marvin.
+jarb has had his fill of playing for now, and goes back to the lounge.
+ender asks, "how many times has ellison jumped votes to follow the crowd?"
+jwalrus says, "we can assume the seer doesn't know anything, probably"
+boingball says, "okay, it's ryan and ctate. let's kill them now"
+ellison says (to ender), "twice"
+ellison says, "but i'll do it more"
+ctate says, "eep!"
+boingball says, "(joking, joking)"
+floyd | dan_wood changes vote from ryan to ellison.
+jwalrus says (to ender), "often"
+floyd | ellison votes to lynch ellison.
+ender says, "hmm.  i find that very suspicious.  and, more to the point, annoying."
+ellison says, "see!"
+floyd | ender votes to lynch ellison.
+dan_wood exclaims, "i think ellison's the werewolf because he's got blood under his fingernails!"
+brenbarn says, "dna test"
+ellison says, "because, you know, when you play with 12 people, you should take five hours for each turn"
+floyd | dfan changes vote from marvin to ellison.
+jwalrus says, "i think ellison's the werewolf because he voted for me"
+brenbarn says, "mmm, ah"
+ryan says, "mmm, ah."
+boingball asks, "how many for lynch majority?"
+jwalrus says, "more to the point, bandwagon-jumping"
+ender says, "6"
+marvin says (to ellison), "voting to lynch oneself is generally considered bloody daft."
+ender says, "one more, that is."
+boingball says, "so one more will do in ellison, right"
+ellison says (to marvin), "whatever"
+ryan says, "i doubt it's ellison."
+jwalrus says, "so, wait"
+marvin says, "no, really. i've tried it. doesn't help."
+ender says (to ellison), "btw, were you being sarcastic when you said turns were supposed to take five hours?""
+ender says, "cause they are, you know."
+floyd | marvin changes vote from ctate to ryan.
+jwalrus asks, "so, if one more vote would kill ellison, can we assume that both the wolves are already voting for him?"
+dfan says, "nah"
+ellison says (to ender), "i don't know what you're talking about...  i've played this in real life and on here, and it's pretty gay when no one can decide on lynching anybody"
+dfan says, "because that can look suspicious"
+marvin says, "or that he's a wolf."
+brenbarn asks (of jwal), "unless he's a wolf?"
+floyd | ctate votes to lynch inky.
+jwalrus says, "oh, yeah"
+brenbarn asks (of ell), "gay?"
+jwalrus says, "well, we lynch him and find out, or something"
+ellison says, "er, no offense to anybody with that"
+boingball says, "a skillful wolf can slip their vote between those of villagers"
+brenbarn asks (of ctate), "what?"
+ctate says, "just wondering...."
+marvin asks (of ellison), "you mean happy and full of fun, yes?"
+jwalrus asks (of ctate), "why?"
+storme has had her fill of playing for now, and goes back to the lounge.
+<andyf> zrblm.
+ellison says (to marvin), "yeah"
+ctate says, "um, lack of verbiage?  dunno."
+floyd | ctate retracts a vote for inky.
+marvin says, "oh, sod it."
+ctate says, "i'm new at this."
+floyd | marvin changes vote from ryan to ellison.

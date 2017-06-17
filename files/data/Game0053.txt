@@ -1,0 +1,364 @@
+floyd | a new game begins with 9 players composed of 2 werewolves, 1 seer, 1
+floyd | wolfsbane carrier, 1 devil, and 4 villagers.  now it is night; time
+floyd | for the werewolves to kill, the seer to identify, the wolfsbane
+floyd | carrier to protect, the devil to identify and the rest to sleep.
+storme says, "yup"
+marvin says, "oh, nifty. you hadn't started."
+maga_dogg says, "we were waiting for you"
+marvin says, "thanks."
+floyd | brenbarn, a villager, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+jwalrus says, "aww"
+gunther says, "merf"
+maga_dogg says, "poor bren"
+brenbarn says, "garghh"
+jwalrus says, "well, i'm a villager"
+iain says, "sheesh, and they even left him just barely alive."
+iain says, "those wolves are bastard."
+iain says, "s"
+gunther says (to jwalrus), "that's what they all say"
+jwalrus says (to gunther), "true. but i'm not a seer or baner or any of them wacky things neither"
+miseri asks, "so whodunnit?"
+gunther says, "oh, right, them"
+iain says (to jwalrus), "if you were the seer or baner, you'd hardly say so."
+gunther says, "hmm, no fool"
+iain says, "so, hmm."
+maga_dogg says (to jwalrus), "but it'd probably be dumb to admit to that this early"
+maga_dogg says, "...what iain said."
+jwalrus says, "of course it would"
+jwalrus says, "but i could have done what the rest of you have done and said nothing about my identity at all"
+maga_dogg says, "so... at this stage it's just a popularity contest, then..."
+maga_dogg says, "ah well, why delay the inevitable"
+iain says, "wf kill dubya"
+floyd | maga_dogg votes to lynch maga_dogg.
+jwalrus says, "hee hee"
+gunther says, "yay"
+schep says (to iain), "hee"
+floyd | maga_dogg retracts a vote for maga_dogg.
+miseri says, "heh. says maga_dogg."
+jwalrus asks, "who'd kill bren?"
+gunther says (to jwalrus), "you! no, wait."
+maga_dogg says (to miseri), "i'm domestic."
+iain says, "jwalrus and gunther seem to be the most talkative."
+miseri asks (of iain), "meaning?"
+iain says, "but i don't like to lynch people just for that."
+</rob> find release from your cares. have a good time.
+iain says (to miseri), "well, nothing."
+gunther says, "ha"
+iain asks, "who hasn't said anything yet?"
+schep says, "i said 'hee'"
+storme says, "me, but i'm too busy laughing"
+brenbarn laughs.
+schep says, "but i'll add that i'm a villager, since i've been quiet."
+storme says (to bran), "shh, you, you're dead"
+maga_dogg says (to brenbarn), "stop that."
+storme says, "er, bren"
+maga_dogg says, "well, i'm a villager, as if saying that counts for anything at this stage"
+gunther says, "ok, in that case i can't help it... i'm the seer, and schep is a wolf."
+iain says, "it's just random meaningless noises caused by gas escaping from his bloated corpse."
+iain says, "we shouldn't have left him out in the sun."
+floyd | iain votes to lynch gunther.
+schep says, "gunther is the devil, because i'm the wolfsbane carrier."
+schep says (to gunther), "darn you."
+gunther says (to schep), "sure you are, suddenly"
+maga_dogg says, "hmm... it'd be foolish for gunther to lie at this stage, since he'd just get lynched next round"
+gunther says (to schep), "a second ago you were a villager"
+miseri says, "true... but it still seems a bit, well, precipitate."
+schep says, "of course i was."
+floyd | marvin votes to lynch schep.
+maga_dogg says, "on the other hand, this kind of madcap bid for glory would be very gunther-consistent"
+iain says (to gunther), "you're making things up here."
+jwalrus asks (of gunther), "why can't you help it?"
+gunther asks (of iain), "?"
+iain recaps to see what schep said.
+gunther says (to jwalrus), "because nothing is happening"
+schep asks (of gunther), "and just why did you wait so long to tell everyone?"
+marvin says (to iain), "he said he was a villager."
+jwalrus says, "ok, schep's story seems consistent, at least"
+maga_dogg says, "hmm. in the best-case scenario for wolfgunther, schep'd be innocent and die, and then gunther would get lynched straight after. not a winning proposition."
+gunther says, "seer doesn't usually reveal himself this early, for obvious reasons"
+iain asks (of gunther), "so why are you, if you are the seer?"
+schep says, "gunther wouldn't get lynched because there's no reason to lynch the devil."
+miseri says, "unless seer knows wolf."
+jwalrus says (to maga), "but if gunther were devil, he might be willing to risk his neck to get schep lynched"
+miseri says (to schep), "unless gunther's a wolf making a madcap wild accusation."
+floyd | marvin retracts a vote for schep.
+jwalrus says, "and we'd be foolish to lynch him if we thought he was the devil nyway"
+schep says (to miseri), "possible."
+iain asks, "there are two wolves and a devil, right?"
+maga_dogg says, "yes"
+iain says, "they may be trying to kill schep because he's the seer or baner."
+schep says, "but he did manage to pick the baner, which is pretty lucky for a random wolf."
+iain says, "and he said he was the baner."
+gunther says, "i am so not a wolf"
+jwalrus says, "if we believe schep, gunther as devil seems most likely, since the odds are against gunther's random target being baner"
+maga_dogg says (to schep), "but not for a devil"
+schep says, "right"
+miseri says (to schep), "unlucky, i'd say."
+iain asks, "can the devil and the wolves talk to each other?"
+iain says, "i assume yes."
+marvin says (to iain), "he said he was a baner *because* gunther said he was a wolf or something."
+jwalrus says, "no"
+schep says (to miseri), "heh, yeah"
+gunther says, "why believe schep? he's been changing his story"
+schep says (to iain), "no"
+maga_dogg says, "gunther has, however, nicely narrowed down the lynch-odds to him or schep"
+jwalrus says, "wolves don't even know who the devil is"
+jwalrus says, "and devil only knows if he identifies"
+schep says, "i always claim to be a villager until there's reason to do otherwise."
+jwalrus says, "so, if schep's right, gunther's devil, and if gunther's right, he's seer, so let's not lynch gunther"
+maga_dogg asks (of gunther), "well, how stupid would it be to say 'i'm a baner' right at the start?"
+iain asks (of jwalrus), "wait, what?"
+storme says, "hmm.  i'm suspecting schep to be a wolf, here"
+maga_dogg says (to jwalrus), "that's not a reason to lynch schep, however"
+jwalrus says, "but schep seems a likely baner, so i don't want to lynch him either"
+schep asks (of storme), "why?"
+marvin says (to iain), "not a lot of point lynching the devil."
+gunther says (to maga_dogg), "that's true.. and still, schep has."
+maga_dogg says (to gunther), "because you were accusing him"
+jwalrus says, "it's stupid lynching the devil, because you're throwing away a chance to lynch a wolf by definitely picking a non-wolf"
+storme says (to schep), "as if you identified yourself as the baner, the baner wouldn't speak up in case he got killed"
+schep says, "if i said nothing, i would have been killed rather quickly."
+maga_dogg says, "both schep's stories are consistent with him being a baner."
+marvin says, "but wait, gunther could be a wolf."
+<adam> dang, i should have come earlier! there will be no cookie for me today!
+gunther says, "uh"
+jwalrus says, "he could, but it seems unlikely"
+gunther says, "if i were a wolf, the last thing i'd do is draw suspicion to myself"
+maga_dogg says (to marvin), "a very dumb wolf, but possibly"
+marvin says, "well, true."
+schep says, "also, no one else has said they're the baner, which also helps me."
+gunther says (to schep), "well, duh"
+marvin says, "still, it's not impossible to do really dumb things that work."
+storme says (to schep), "as i said, they wouldn't"
+schep says, "i would."
+maga_dogg says, "it could be a red herring, though. draw attention to self precisely because you are the wolf, so everybody'll say 'he can't be the wolf'"
+jwalrus says (to storme), "they might if we'd definitely know a wolf if they did"
+maga_dogg says, "i'm just getting really curious to see what gunther is now"
+iain says, "he's the devil, clearly."
+adam arrives, full of neither funk nor fun.
+storme says (to jwalrus), "hmm, maybe"
+jwalrus says, "and since there's no-one else known yet, baner could speak up and then protect self"
+gunther asks, "'clearly'?"
+schep says, "if i were the baner and someone else claimed to be, i'd gladly make my identity known to help everyone get a wolf."
+iain says, "which is a bastard since we want to kill wolves."
+maga_dogg says, "but since he *has* made the first round interesting, i'm reluctant to kill him on shaky evidence"
+brenbarn says, "hey adam"
+gunther says (to jwalrus), "and continue to protect himself? pointless"
+maga_dogg says (to adam), "hey"
+schep says, "not pointless, if you kill a wolf."
+maga_dogg says (to gunther), "it'd give the rest of us very useful information"
+jwalrus says, "i am fairly sure gunther is the devil, and so suggest that we don't lynch either him or schep"
+floyd | marvin votes to lynch iain.
+iain says, "oh, thanks."
+adam says, "whoops, they want me to go back to work already. curses"
+adam is weaponized, aerosolized and sporulated.
+</adam> disconnect, disconnect, and again, disconnect, as the great lenin taught us.
+iain says, "see, it'll look like spite if i vote for marvin now."
+maga_dogg says, "and he could take risks, knowing that the wolves wouldn't attack him since they'd assume he was protecting himself"
+iain says, "but he was fairly supportive of gunther."
+jwalrus says, "storme and mis have been pretty quiet, for what that's worth"
+marvin says (to iain), "spites one of the best reasons for voting in the first round."
+schep says, "he was against lynching gunther, which is far from supporting gunther."
+jwalrus says (to marvin), "not with a first round this good"
+gunther says, "floyd needs "vote random""
+miseri actually has something else in another window.
+iain says (to schep), "hm."
+schep says (to gunther), "wf vote"
+gunther says, "really? heh"
+iain asks, "really?"
+storme says (to jwalrus), "due to lack of useful contribution to make, myself"
+floyd | iain changes vote from gunther to miseri.
+schep says, "which is not random, but just weird."
+floyd | iain changes vote from miseri to miseri.
+miseri says (to maga_dogg), "that public-school rpg thing i was telling you about."
+iain says, "wow, it works. kind of."
+maga_dogg asks (of miseri), "how goes it?"
+schep says, "no, it just does the first player or something."
+miseri says (to maga_dogg), "just working out hit points and damage."
+iain says (to schep), "it randomly switched my vote from miseri to miseri."
+gunther says, "oh, get on with it"
+miseri asks (of iain), "must be a sign, huh?"
+miseri says, "but i'm not a wolf."
+marvin says, "i wasn't against lynching anyone."
+jwalrus says, "if we believe mis, it seems likely that he'd be paying more attention if he had an important role, though i dunno if that's either fair or valid reasoning"
+jwalrus says, "also, lag"
+schep says, "actually the last player, it looks like."
+floyd | maga_dogg votes to lynch marvin.
+floyd | current players (8):
+floyd | schep has 0 votes and hasn't yet voted.
+floyd | marvin has 1 vote and votes to lynch iain.
+floyd | iain has 1 vote and votes to lynch miseri.
+floyd | jwalrus has 0 votes and hasn't yet voted.
+floyd | maga_dogg has 0 votes and votes to lynch marvin.
+floyd | storme has 0 votes and hasn't yet voted.
+floyd | gunther has 0 votes and hasn't yet voted.
+floyd | miseri has 1 vote and hasn't yet voted.
+floyd |
+devil arrives, full of fun and funk.
+floyd | iain changes vote from miseri to marvin.
+devil says, "i was wondering why it was so quiet in the lounge."
+marvin says, "for what it's worth, which by this point is probably nothing, i'm just a villager."
+gunther says, "see? there's the real devil!"
+floyd | storme votes to lynch marvin.
+devil hides.
+jwalrus says, "since i believe schep not to be a wolf, i'll follow his vote, unless he votes for me"
+floyd | gunther votes to lynch marvin.
+marvin asks, "see? worth nothing?"
+schep says, "not much to go on. but storme did try to get me lynched."
+floyd | schep votes to lynch storme.
+gunther says, "hmm"
+floyd | gunther changes vote from marvin to storme.
+floyd | jwalrus votes to lynch storme.
+storme says (to schep), "hunh"
+maga_dogg says (to schep), "way to win a crowd"
+brenbarn says (to devil), "when wolves are about, it pays to be quiet"
+maga_dogg says (to bren), "as you found out"
+gunther says, "of course, i just completely gave myself away"
+</oren> i could go on talking to you for several minutes more before yielding to the desire to bash my head in with a large rock
+gunther says, "but fuck it"
+storme says (to schep), "i just wondered why you announced yourself as baner so soon"
+miseri asks, "hm?"
+floyd | jwalrus retracts a vote for storme.
+jwalrus asks (of gunther), "what?"
+iain asks, "'there's the real devil!'?"
+schep says (to storme), "i mostly believe you. but i'm just being semirandom here."
+iain says, "that gives away nothing."
+gunther says, "by voting along with schep instead of for him"
+miseri checks wf who. "we think it's marvin?"
+marvin says (to miseri), "i don't."
+iain says, "we don't know."
+maga_dogg says (to gunther), "you gave yourself away more by saying that you'd just given yourself away"
+iain says (to maga_dogg), "unless he's just playing silly buggers."
+gunther says, "so yeah, i am devil"
+maga_dogg says, "wait one second."
+miseri says (to gunther), "now i'm all confused about you."
+maga_dogg says, "gunther could be a wolf pretending to be devil in order to avoid lynching."
+iain says, "he's either devil or wolf."
+marvin asks (of gunther), "are you really and truly actually admitting to being devil?"
+iain says (to maga_dogg), "well, the seer can check him out."
+jwalrus says, "as i say, i think it's far more likely that he's devil"
+gunther says, "since i gave it away anyway, yes"
+gunther says, "i id'd schep as the baner and hoped to get him lynched"
+schep says, "nah, he's probably just the devil."
+marvin says, "hrm."
+jwalrus says, "and i think the seer'd do better looking for wolves than wasting a turn checking gunther out"
+maga_dogg says, "if gunther survives this, he is going to be laughing so much"
+schep says, "(note: this means please do not listen to him)"
+new default channel: alt/random/markov-chains
+iain says, "if we think gunther is just the devil, we can ignore him."
+jwalrus says (to maga), "if he's the devil, he almost certainly will do, now"
+iain says, "but then the bastard'll turn out to be a wolf."
+gunther says (to iain), "fine"
+gunther has disconnected.
+gunther oils the cogs of the war machine and feeds it with our babies.
+</gunther> kiss me once then i am leaving / kiss me once then kiss yourself goodbye
+floyd | marvin changes vote from iain to schep.
+storme says, "jwalrus seems oddly protective of gunther, fwiw"
+marvin says, "hee hee hee."
+devil says (to iain), "it's hard to ignore gunther."
+jwalrus asks, "what?"
+iain asks (of marvin), "whuh?"
+schep says (to storme), "no, it just makes sense"
+iain says (to storme), "you're just mixing it now."
+storme says (to schep), "oh, i agree"
+marvin says (to iain), "i could vote for you again, if you like."
+jwalrus says, "i say i am almost certain that gunther is the devil, and as there is no point in lynching the devil, we shouldn't kill him"
+gunther says, "jwalrus is just good at this"
+iain says (to jwalrus), "agreed."
+gunther says, "unlike, say, me"
+jwalrus says (to gunther), "i'm flattered"
+storme says (to jwalrus), "see, now i suspect you're the seer"
+floyd | jwalrus votes to lynch storme.
+iain says, "i'm inclining towards marvin or storme as wolves."
+maga_dogg says, "so who we kill is now pretty random, if we accept gunther's version."
+marvin is still just a villager.
+floyd | current players (8):
+floyd | schep has 1 vote and votes to lynch storme.
+floyd | marvin has 3 votes and votes to lynch schep.
+floyd | iain has 0 votes and votes to lynch marvin.
+floyd | jwalrus has 0 votes and votes to lynch storme.
+floyd | maga_dogg has 0 votes and votes to lynch marvin.
+floyd | storme has 3 votes and votes to lynch marvin.
+floyd | gunther has 0 votes and votes to lynch storme.
+floyd | miseri has 0 votes and hasn't yet voted.
+floyd |
+gunther says (to maga_dogg), "damn right"
+schep says (to maga_dogg), "there is a bunch of behavior you can analyze."
+maga_dogg says, "apart from 'probably not schep'. unless schep is a wolf and gunther is the devil and they just have a fiendish mutual-protection fake-enemies thing going"
+jwalrus says, "well, except we now have a long conversation to provide evidence timing"
+schep says, "since this hasn't been the ordinary boring first round."
+marvin says (to iain), "everyone else would apparently agree with you, from the votes."
+gunther says (to maga_dogg), "that'd rock"
+iain says (to maga), "argh"
+floyd | gunther retracts a vote for storme.
+maga_dogg says (to gunther), "it's been done before"
+iain says, "wf who"
+iain says, "oops."
+miseri says, "grf. go with the flow, i guess...."
+<jearl> acquired a 7.2% stake in kling jelko dr dehmel wertpapierdienstleistungs ag.
+floyd | maga_dogg retracts a vote for marvin.
+floyd | miseri votes to lynch marvin.
+marvin exclaims (at miseri), "no! no!"
+jwalrus says, "ooh, lucky escape"
+marvin exclaims (at miseri), "never go with the flow!"
+iain says (to marvin), "oooooooh, close."
+gunther says, "miseri could be the wolf"
+marvin says, "i'm gonna die, i know it."
+schep asks (of gunther), "why aren't you voting for me?"
+floyd | miseri retracts a vote for marvin.
+miseri asks, "why?"
+jwalrus asks (of schep), "because he'll never get anyone to agree?"
+schep says, "i think this round should just end."
+gunther says (to schep), "because i know you're not a wolf"
+schep asks (of jwalrus), "does it matter?"
+floyd | schep changes vote from storme to marvin.
+gunther says, "but i have disabled you for this game, so mwa ha ha"
+floyd | current players (8):
+floyd | schep has 1 vote and votes to lynch marvin.
+floyd | marvin has 3 votes and votes to lynch schep.
+floyd | iain has 0 votes and votes to lynch marvin.
+floyd | jwalrus has 0 votes and votes to lynch storme.
+floyd | maga_dogg has 0 votes and hasn't yet voted.
+floyd | storme has 1 vote and votes to lynch marvin.
+floyd | gunther has 0 votes and hasn't yet voted.
+floyd | miseri has 0 votes and hasn't yet voted.
+floyd |
+maga_dogg says (to gunther), "well, as devil, that would make no sense."
+floyd | gunther votes to lynch marvin.
+marvin says, "fuck."
+jwalrus asks, "why do we suspect marvin, again?"
+floyd | gunther retracts a vote for marvin.
+marvin exclaims, "bye everyone!"
+schep says, "no reason"
+iain says (to jwalrus), "i rolled a 5."
+jwalrus asks, "or, why do you suspect him, since i don't?"
+maga_dogg says, "yeah, pause for a second, people, and read back"
+schep says, "i think iain voted randomly and a bunch of people followed."
+storme says (to jwalrus), "yeah, but you suspect me. for no apparent reason"
+marvin says, "okay, this isn't fair."
+jwalrus says, "storme has tried to get schep and me lynched"
+maga_dogg says, "i think we originally started voting for him 'cause iain mentioned he'd been supporting gunther"
+iain says (to schep), "only semi-randomly."
+miseri asks, "so we should vote for iain then?"
+maga_dogg looks at iain
+iain says, "i honestly thought marvin was being supportive of gunther."
+marvin says, "i'm getting just the right amount of votes and unvotes to keep me at three votes."
+iain says, "once he decided that gunther was actually the devil."
+iain says, "assuming marvin is a wolf, of course."
+storme says (to jwalrus), "i think you're the seer.  i don't want you lynched"
+maga_dogg asks (of marvin), "living dangerously, huh?"
+floyd | gunther votes to lynch iain.
+gunther says, "iain's the smooth-talker here"
+iain says (to gunther), "yeah, but we're ignoring you."
+marvin says, "if i was a wolf, i wouldn't know gunther was a devil."
+jwalrus asks (of storme), "so why were you accusing me of supporting gunther?"
+iain says (to marvin), "not initially."
+schep says (to storme), "i haven't heard anything to indicate jwalrus might be the seer."
+schep says, "just a good player."
+marvin says, "or that schep was a bane carrier."
+iain says (to marvin), "but you could have figured it out, just as the rest of us did."
+gunther says (to iain), "i have as much idea as you do"
+storme says (to jwalrus), "well, i think you might actually know he's the devil"
+floyd | maga_dogg votes to lynch marvin.
+floyd | gunther changes vote from iain to marvin.

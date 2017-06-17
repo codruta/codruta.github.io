@@ -1,0 +1,66 @@
+floyd | a new game begins with 9 players composed of 2 werewolves, 1 seer, 1
+floyd | fool, 1 wolfsbane carrier, and 4 villagers.  now it is night; time for
+floyd | the werewolves to kill, the seer to identify, the fool to identify,
+floyd | the wolfsbane carrier to protect and the rest to sleep.
+floyd | thumper, a villager, is dead.
+floyd | it is now day. time to vote on whom to lynch.
+thumper says, "see, if i don't die the first night, it's a good bet i'm the wolf."
+hloif says, "poor thumper."
+maga_dogg says (to thumper), "too late."
+miseri says (to thumper), "heh"
+doe says, "okay, i am plebian villager this time and i am taking a quick smoking break"
+andyf says, "wait, doe's a dragon!"
+hloif exclaims, "no!"
+hloif exclaims, "doe's a deer!  a female deer!"
+schep says (to andyf), "well, since we don't have a knight"
+maga_dogg says, "hmm, who to string up"
+andyf asks, "any suggestions? or just random lynchin' fun?"
+floyd | hloif votes to lynch brenbarn.
+brenbarn asks (of hloif), "?"
+hloif says (to brenbarn), "sorry, just a random suggestion."
+floyd | hloif retracts a vote for brenbarn.
+brenbarn says, "well, we have no info, so. . ."
+doe says, "bak"
+hloif says, "unless the seer knows something."
+miseri says (to doe), "hello villager"
+doe says (to miseri), "hi"
+brenbarn says, "so. . ."
+hloif asks, "so?"
+miseri says, "actually, i think doe's the baner. so."
+hloif asks (of miseri), "why do you think that?"
+andyf votes to lynch peter gabriel.
+doe asks (of miseri), "yeah, why?"
+hloif says (to andyf), "yay."
+miseri shrugs
+floyd | doe votes to lynch miseri.
+emily says, "um, i wouldn't do that"
+hloif wouldn't either.
+schep says, "hmmm."
+doe says, "okay, i'll wait to unlynch when i have a new name"
+floyd | maga_dogg deleted! current players (7):
+floyd | hloif has 0 votes and hasn't yet voted.
+floyd | emily has 0 votes and hasn't yet voted.
+floyd | miseri has 1 vote and hasn't yet voted.
+floyd | brenbarn has 0 votes and hasn't yet voted.
+floyd | schep has 0 votes and hasn't yet voted.
+floyd | doe has 0 votes and votes to lynch miseri.
+floyd | andyf has 0 votes and hasn't yet voted.
+floyd |
+schep says, "actually, i would."
+floyd | schep votes to lynch miseri.
+emily asks (of schep), "yeah?"
+maga_dogg is gone. let us remember him.
+</maga_dogg> the four of you total up your scores. "wow boss, you came in dead last," maga_dogg points out.
+hloif asks (of schep), "why?"
+floyd | miseri votes to lynch schep.
+dan_wood goes home.
+</dan_wood> in all seriousness, what the hell is iran going to do with killer soviet dolphins?
+schep says, "vague guesses don't make much sense."
+floyd | doe changes vote from miseri to schep.
+floyd | hloif votes to lynch brenbarn.
+floyd | andyf votes to lynch schep.
+schep says, "even if one is seer/fool"
+emily says (to schep), "but he might be either seer or fool"
+brenbarn says (to hloif), "not again!"
+hloif says (to emily), "he's not a seer."
+floyd | brenbarn votes to lynch schep.

@@ -1,0 +1,52 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | fool, 1 devil, and 2 villagers.  now it is night; time for the
+floyd | werewolf to kill, the seer to identify, the fool to identify, the
+floyd | devil to identify and the rest to sleep.
+bishop says (to brenbarn), "planning to throw a seer in thre too? not much point in fool/devil w/o a seer."
+brenbarn says, "seer is default"
+floyd | maga_dogg, a villager, is found as a heap of gnawed bones.
+floyd | it is now day. time to vote on whom to lynch.
+maga_dogg says, "aiee"
+brenbarn says, "poor maga"
+maga_dogg says, "motherfuckers"
+bishop says, "ouch. megabummer."
+ander says, "hmm."
+brenbarn says (to bishop), "ym 'maga'bummer"
+bishop says (to brb), "yeah, that too."
+miseri says, "who would be so cruel? maga was the one who wanted to play the most."
+boingball exclaims, "i suspect... him!"
+maga_dogg says (to miseri), "maybe the one who was destroyed by my infallible reasoning last time"
+brenbarn says, "be quiet dead man"
+boingball says, "actually, i'm a villager"
+ander says, "iias, maga was a villager... but that's obvious, now."
+boingball says, "so nyer"
+maga_dogg says (to brenbarn), "i'm william blake. perhaps you know my poetry."
+miseri says, "if i were seer, brenbarn would be a villager."
+brenbarn says, "if i am seer, i id'd maga"
+new default channel: alt/random/markov-chains
+bishop says, "iias, miseri is a nonwerewolf."
+boingball says, "if i am a seer, miseri is a wolf"
+brenbarn says, "ooh, more spice"
+ander says, "interesting."
+brenbarn asks, "now what?"
+brenbarn says, "so we have mis as possible wolf, and me and mis as possible villagers"
+bishop asks, "ok, random finger-pointing time?"
+ander says, "sure looks that way."
+miseri says, "hm."
+<lisa> flew apart into a million separate ghosts
+miseri says, "bishop didn't say i was a villager.  he said i was not a wolf."
+brenbarn says, "hmm, true"
+bishop says, "indeed, 'tis so."
+brenbarn asks, "we have devil and fool, huh?"
+brenbarn says, "so -- ooh, wow"
+miseri says, "yes."
+<sargent> "yeah -- cement it in stone!"
+miseri decides to suspect boingball. vengeance!
+</carrad2> carrad2 has disconnected from ifmud.
+floyd | boingball votes to lynch miseri.
+floyd | miseri votes to lynch boingball.
+brenbarn says, "hmm"
+ander says, "okay, looks like it's up to the random malice to decide."
+floyd | ander votes to lynch boingball.
+your default channel is currently "alt/random/markov-chains".
+floyd | bishop votes to lynch boingball.

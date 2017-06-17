@@ -1,0 +1,69 @@
+floyd | a new game begins with 9 players composed of 2 werewolves, 1 seer, and
+floyd | 6 villagers.  now it is night; time for the werewolves to kill, the
+floyd | seer to identify and the rest to sleep.
+josh_g says, "likewise"
+jwalrus asks, "baner, for nine?"
+brenbarn says, "scapegoat"
+jwalrus says, "too late"
+floyd | ellison, a villager, doesn't wake up today.
+floyd | it is now day. time to vote on whom to lynch.
+jwalrus says, "aww"
+hloif says, "oh no, poor ellison."
+storme says, "awr"
+ellison says, "welp, off to grandmother's house i go"
+brenbarn says, "whoever did that is bogue, in light of what ell just said"
+ellison has disconnected.
+ellison goes back to squeamhurst..
+parsergirl sobs at ellison's grave.
+jwalrus asks (of brenbarn), ""bogue"?"
+jota asks, "bogue?"
+josh_g asks, "huh?"
+emily asks, "bogus, only frenchy?"
+emily says, "also, re the game not being cool if you get killed right off, i assume"
+brenbarn says, "just a one-syllable form of bogus"
+josh_g says, "that's wack"
+josh_g says, "(one-syllable form of 'wacky')"
+parsergirl says, "that be wack"
+jota says (to josh), "you mean 'waque'."
+emily says, "ookee dokee"
+storme asks, "so, who'd wanna kill ellison?"
+josh_g says, "well, we have a murder on our hands, and someone must pay"
+emily says, "i'm a mere villageress"
+brenbarn says, "and pay plenty!"
+floyd | jwalrus votes to lynch josh_g.
+jwalrus says, "(sorry, stdresponse.h)"
+floyd | jwalrus retracts a vote for josh_g.
+josh_g says, "hee"
+storme says, "i am but a poor peasant girl"
+jwalrus rta 'i am but a poor parser girl'.
+josh_g says, "i am the captain of the pinafore ... wait, i'm a villager"
+jota scrolls back to see if there were any particularly vicious responses to his suggestion, finds none.
+parsergirl says, "we need a parser in this game."
+brenbarn says, "hee"
+brenbarn says, "floyd does the parsing here"
+parsergirl says, "i am a poor storme girl"
+josh_g says, "i sense deceit from the one clad in tights"
+parsergirl says (to josh_g), "that's just the burrito you had for lunch."
+jota says (to josh), "wait, i thought she was supposed to be the heroine and you the villain."
+josh_g says, "*uuurp* whoops, you're right"
+storme tries to look to see who's wearing tights inconspicuously
+josh_g says (to jota), "in the murky world of werewolf, heroes and villains are all dubious"
+parsergirl says (to josh_g), "also, anyone wearing powerpuff girl underwear is immediately suspect."
+brenbarn says, "i must always suspect pg"
+josh_g says, "aha, foiled you again! i'm wearing my pokemon underwear today"
+brenbarn says, "s/must/must needs"
+storme says, "clearly, we all need to reveal our underwear to prove out innocence to josh and pg"
+hloif says, "um...  i haven't said anything.  i must be the wolf.  people should all vote to lynch me right now."
+floyd | jwalrus votes to lynch hloif.
+jota says, "um. i'm not sure it'd be appropriate to check who is and isn't wearing ppg underwear, at the moment..."
+floyd | emily votes to lynch hloif.
+floyd | josh_g votes to lynch hloif.
+floyd | jwalrus retracts a vote for hloif.
+josh_g says, "can't think of a reason not to"
+floyd | jota votes to lynch hloif.
+parsergirl says (to jota), "i so read that as pg's underwear"
+hloif says, "thanks, all."
+floyd | storme votes to lynch hloif.
+jota shrugs.
+hloif says, "i'm sorry, i thought i'd have time for this."
+floyd | jwalrus votes to lynch hloif.

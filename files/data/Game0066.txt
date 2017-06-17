@@ -1,0 +1,49 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | fool, 1 wolfsbane carrier, and 2 villagers.  now it is night; time for
+floyd | the werewolf to kill, the seer to identify, the fool to identify, the
+floyd | wolfsbane carrier to protect and the rest to sleep.
+new default channel: if/advocacy/r*if-sux
+floyd | golrien, a fool, is remembered at a special service held at daybreak.
+floyd | it is now day. time to vote on whom to lynch.
+ctate laughs.
+brenbarn says, "hmm, i guess that's good"
+golrien says, "arse"
+golrien has had his fill of playing for now, and goes back to the lounge.
+schep says, "huh"
+maga_dogg says, "ok, that makes seerdom easy"
+ctate says, "yup"
+skip says, "aw, there goes the fool."
+skip says, "dammit."
+brenbarn asks, "is it better, in general, to lose a fool or villager?"
+ctate says, "iits then maga_dogg is the wolf"
+schep says, "iiats then ctate is innocent."
+brenbarn says, "if i'm seer, then ctate is the baner"
+maga_dogg says, "iits ctate is the baner."
+skip says (to brenbarn), "probably better to lose a fool, but the fool is so much fun."
+schep says (to ctate), "you popular guy."
+ctate preens.
+skip says, "iiats, schep is wolf."
+maga_dogg asks, "hmm. any ideas?"
+ctate says, "lynch 'em all, and let god sort 'em out."
+brenbarn says, "so, ctate is exonerated 3 ways from sunday"
+maga_dogg asks, "or random firstround  kill?"
+floyd | maga_dogg votes to lynch ctate.
+ctate says (to maga), "!!!!!!!!"
+schep says, "er, odds are ctate is innocent."
+maga_dogg exclaims, "he's just too goddamn popular by half!"
+floyd | maga_dogg retracts a vote for ctate.
+brenbarn says, "we have wolf suspicion on maga and schep"
+ctate says, "well, tenuously"
+maga_dogg asks (of bren), "why not you?"
+ctate says, "esackly"
+brenbarn says (to maga), "well, i'm just looking at the fake-seer statements"
+maga_dogg says, "hrm. random choice..."
+floyd | maga_dogg votes to lynch skip.
+floyd | skip votes to lynch maga_dogg.
+maga_dogg says (to skip), "oh, how random"
+ctate says, "hmm"
+new default channel: tech/os/windows
+skip says (to maga), "same to you, wolfy."
+schep says, "idla ctate-vote."
+floyd | schep votes to lynch maga_dogg.
+floyd | ctate votes to lynch maga_dogg.

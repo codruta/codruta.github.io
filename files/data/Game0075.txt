@@ -1,0 +1,55 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, and 4
+floyd | villagers.  now it is night; time for the werewolf to kill, the seer
+floyd | to identify and the rest to sleep.
+floyd | maga_dogg, a villager, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+stacey says, "afk for a sec"
+brenbarn says, "aw"
+parsergirl says, "ouch"
+maga_dogg exclaims, "fuckers again!"
+davidw says, "nasty."
+stacey says, "drat, maga's a good player"
+brenbarn says, "with maga_dogg dead, suspicion shifts to parsergirl"
+davidw says, "yeah, we need him alive."
+parsergirl asks (of brenbarn), "how so?"
+new default channel: games/mud/wolf-theory
+brenbarn says (to pg), "because you're crafty!"
+parsergirl says, "hee hee"
+stacey asks, "what about davidw?"
+parsergirl says, "no, i'm dum!"
+brenbarn says (to stacey), "indeed!"
+davidw asks (of stacey), "what about me?"
+stacey says, "i dunno. tell us about yourself."
+davidw says, "i suspect pg too, but i have no particular reason to."
+stacey says, "misognists, the lot of you"
+</neild> i got a very bad flu in ireland once and in my feverish delirium i thought i was traveling to an island of dogs and that i would be magically transformed into a golden retriever on arrival. it was a really nice feeling.
+stacey says, "oh patriots  won the superbowl"
+davidw asks, "is that football?"
+stacey says, "yes."
+thrax says, "iias, stacey is innocent."
+stacey says, "they appear to be very happy about it"
+brenbarn says, "iias, i identified maga"
+davidw says, "iias, brenbarn is a villager."
+thrax asks (of bb), "and?"
+brenbarn says (to thrax), "ha!  he was a villager"
+brenbarn says, "but he's dead, man"
+thrax says (to bb), "ah yes"
+parsergirl says, "iias, thrax is a villager"
+stacey says, "iias, brenbarn is a villager"
+new default channel: tech/programming/programming
+maga_dogg says, "okay, i have lectures in about seven hours, so i'd better get some sleep."
+parsergirl says, "night maga"
+stacey exclaims, "goodnight maga!"
+brenbarn says, "you are sleeping the sleep of the dead"
+stacey says, "hee hee"
+parsergirl says, "lectures...in hell"
+thrax says, "just in the name of getting the ball rolling--"
+<jarb> jarb hypnotizes everyone on the mud and everything that happens from now until he leaves is only at the direct request of his invisible monkey.
+floyd | thrax votes to lynch davidw.
+maga_dogg says (to parsergirl), "oh, you've been to my philosophy of logic classes, then"
+floyd | stacey votes to lynch davidw.
+davidw says, "that's a mistake. i'm innocent."
+maga_dogg just can't settle down / in a kinky kinky part of town.
+</maga_dogg> "what's optimism?" asked cacambo. "i'm afraid to say," said candide, "that it's a mania for insisting that all is well when things are going badly."
+floyd | davidw votes to lynch thrax.
+floyd | brenbarn votes to lynch davidw.

@@ -1,0 +1,138 @@
+floyd | a new game begins with 7 players composed of 1 werewolf, 1 seer, 1
+floyd | fool, and 4 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the fool to identify and the rest to
+floyd | sleep.
+maga_dogg arrives, full of funk, but no fun.
+floyd | lonecleric, a villager, mutters something about having been detected
+floyd | as a b4d mch1n3 before collapsing into a pile of scrap metal.
+floyd | it is now day. time to vote on whom to lynch.
+maga_dogg says, "did i miss the sta- yes"
+brenbarn says, "hmm"
+julian says, "ok."
+lonecleric says, "yay non-game."
+parsergirl says, "bad lonecleric. no oil."
+julian says, "a fool, a seer, a wolf, and villagers.  i'm not the wolf.  (i'll be right back -- please don't lynch me.)"
+schep says, "okay, so."
+schep says, "iias, parsergirl is innocent."
+parsergirl votes to lynch julian (not really).
+brenbarn says, "iias, schep is innocent"
+caleb says, "iias, brenbarn is innocent"
+parsergirl says, "iias, caleb is a villager"
+julian says, "iias, parsergirl is a villager."
+brenbarn says, "hmmm"
+julian asks, "the fool is totally random, right?  so the fool can see a villager who actually is a villager?"
+brenbarn says, "yes"
+schep says, "yup"
+julian says, "ok."
+brenbarn says, "but not random if fool picks on another fool or a seer"
+julian asks, "can the fool identify the same person twice and get two different answers?"
+schep says, "not sure"
+brenbarn says, "yes"
+julian says, "huh."
+brenbarn says, "that will tip you off that you're a fool"
+parsergirl says, "every parents' worst nightmare."
+brenbarn says, "but of course you waste a night, and it's not guaranteed that your ids will be different"
+julian says, "indeed."
+schep says, "if you want to waste an id checking someone twice, that is. right."
+brenbarn sings, "making an identification, checkin' it twice, gonna find out who's foolish at night. . ."
+julian says, "5 people used iias.  i bet that at least parsergirl is just muddying the waters."
+brenbarn says (to julian), "and yet you exonerated her"
+reillyb says, "hmmm"
+julian says (to brenbarn), "muddying the waters is not necessarily a bad thing =)"
+caleb says, "hmm"
+julian shrugs.
+parsergirl asks, "who peed in the village well?"
+julian says, "hee."
+reillyb reillyb wonders if julian is being overzealous
+brenbarn asks, "as in whose peeing was skilful?"
+julian asks, "i know that i'm not a wolf.  i bet that schep isn't.  could be caleb and brenbarn?"
+brenbarn asks, "where do you come up with these ideas?"
+caleb says, "i'm not"
+julian says, "or maybe reillyb is just trying to get me lynched after being very quiet."
+julian says (to brenbarn), "you two also iias'd."
+brenbarn says, "everyone did, except reillyb"
+brenbarn says, "and he's new"
+parsergirl asks, "ok, random vote?"
+julian says, "oh, right."
+caleb says, "i might have mistaken the use of iias.  sorry if i messed something up"
+parsergirl says (to caleb), "nah"
+maga_dogg has had his fill of playing for now, and goes back to the lounge.
+julian says (to caleb), "iias stands for if i am a seer"
+schep says (to caleb), "it looked fine."
+brenbarn says (to caleb), "you did fine -- just don't give too much away now!"
+julian shrugs again.
+lonecleric says, "hmmpf, won't have time for one after that."
+floyd | julian votes to lynch reillyb.
+lonecleric has had his fill of playing for now, and goes back to the lounge.
+schep says, "he hasn't given anything away. he could be a confused villager, or a very good seer. or of course, a sneaky wolf."
+floyd | parsergirl votes to lynch julian.
+floyd | reillyb votes to lynch julian.
+brenbarn says, "hmm"
+floyd | caleb votes to lynch julian.
+julian says (to pg), "i'm *not* the wolf."
+schep says, "hmm."
+brenbarn says, "julian is very jumpy, but always is"
+julian asks, "darnit, i'm either the seer or the fool, ok?"
+reillyb says, "let's hear that point now <g>"
+schep says, "eep."
+floyd | parsergirl retracts a vote for julian.
+floyd | caleb retracts a vote for julian.
+julian says, "i bet that the wolf is either caleb or reillyb, now.  anyone else could've just killed me."
+julian says, "huh, nevermind."
+brenbarn asks, "hmm, ok, what did you see?"
+floyd | reillyb retracts a vote for julian.
+julian says, "i saw pg as a villager."
+parsergirl says, "this is true."
+parsergirl says, "whether random or not"
+parsergirl says, "but she could be trying to butter me up"
+julian shrugs.
+schep says, "(he)"
+parsergirl says, "oops"
+brenbarn says, "hmm, it's still possible that julian could be a wolf"
+parsergirl says, ">identify gender"
+brenbarn asks, "where's that crystal ball?"
+schep says, "still not too much info. but better than nothing."
+caleb says, "i'm not sure what i did to make myself look like a wolf to julian"
+floyd | schep votes to lynch caleb.
+julian says, "i suppose that i could quote myself from last game and say that i'd been a wolf the two previous games, i'm *not* a wolf now... but i'm really not."
+julian asks (of schep), "why?"
+schep says (to caleb), "he's saying the people who didn't vote for him are likely innocent."
+brenbarn says, "well that's helpful, considering it was meaningless then"
+julian nods.
+schep says (to julian), "i don't really know."
+brenbarn says, "i think caleb is as likely as any"
+caleb says (to schep), "i voted for him because i couldn't follow his logic, and it seemed like it was designed to confuse"
+julian says, "ok."
+julian asks, "how about reillyb, though?"
+brenbarn asks, "how about him?"
+schep says, "i believe julian, since in the next round the total count of seers/fools will come out right."
+reillyb asks, "what about me?"
+julian says, "he jumped on the bandwagon, he jumped off it only after he realized that this was incriminating."
+brenbarn says, "hrm"
+schep says, "well, it's still a viable strategy to claim to be seer or fool, but difficult."
+julian says, "caleb, otoh, retracted quick."
+brenbarn says, "i don't think it"
+schep says, "not that julian had much choice at that point, if he were a wolf."
+julian says, "and since i doubt that pg is the wolf, it's probably either caleb or reillyb, since anyone else could've ended it right there."
+brenbarn says, "er, it's very helpful to go just on the basis of how quickly people voted or didn't, etc."
+brenbarn says, "(i don't think it is.  that was a continuation of the other statement)"
+julian says, "sigh, i know.  and the whole bandwagon argument is silly here in the first round anyway."
+brenbarn says, "people are often doing stuff in other windows, lagging, whatever"
+floyd | parsergirl votes to lynch caleb.
+julian says, "well, by speed i mean in relation to other game actions."
+julian says, "caleb retracted probably before he realized that pg did."
+floyd | brenbarn votes to lynch caleb.
+caleb says, "vote for me, but my death will exonerate me.  i claim my vote for julian came from fear and newness for the game"
+brenbarn says, "no real knowledge, but i have my reasons, i guess"
+caleb says, "er, to"
+parsergirl says, "wolves always make typos from their thick hairy pawz"
+schep says (to caleb), "sure."
+julian says (to caleb), "vote for reillyb."
+brenbarn says (to pg), "hee"
+maga_dogg arrives, full of neither funk nor fun.
+schep says, "er, sincere."
+brenbarn asks (of reillyb), "what do you think?"
+reillyb says, "hmmm"
+caleb exclaims (at pg), "hey, you were right when you called me a villager!"
+reillyb says, "here goes..."
+floyd | reillyb votes to lynch caleb.

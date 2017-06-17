@@ -1,0 +1,181 @@
+floyd | a new game begins with 10 players composed of 2 werewolves, 1 seer, 2
+floyd | masons, and 5 villagers.  now it is night; time for the werewolves to
+floyd | kill, the seer to identify and the rest to sleep.
+storme says, "go for it"
+<lonecleric> remember! when you open the ark of the covenant, everyone gets burned!
+floyd | devil, a seer, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+schep says, "ack"
+maga_dogg says, "ack"
+brenbarn says, "crap"
+jwalrus says, "bollocks"
+storme says, "wow"
+golrien says, "adam"
+golrien asks, "adam?"
+iain asks, "seer?"
+golrien says, "damn."
+jwalrus says, "unlucky"
+jwalrus asks (of golrien), "you called?"
+golrien ainserts aextra eletters.
+miseri says, "grf"
+storme says, "seer killed first round.  yeesh"
+hjalfi says, "not good."
+maga_dogg asks (of golrien), "???"
+hjalfi asks, "anyone want to own up and save us some time?"
+iain asks (of hjalfi), "own up to what?"
+brenbarn asks, "hmm, so what have we got left, just 2 wolves and 2 mason and then villagers, right?"
+maga_dogg owns up to villagerdom.
+iain says, "we could do the schep thing again."
+jwalrus says (to bren), "yes"
+miseri exclaims, "me! i did it with the lead pipe in the conservatory!"
+storme says (to bren), "yup"
+iain says, "after explaining it."
+maga_dogg says (to iain), "but that'd be pointless now"
+iain says, "doh."
+brenbarn says (to iain), "with the seer dead, we -- yeah"
+schep says, "i'd like to point out that imo the most effective way for masons to play is to claim mason membership if in danger of lynching. the other masons don't speak up, unless someone's lying."
+iain says, "bah, and after i just about understood it."
+jwalrus says, "schep speaks wisely"
+schep says, "in which case one mason can accuse whoever's trying to pull something."
+(from brenbarn) schep says, "sooosie is a boooger brain"
+maga_dogg says, "this makes wolf life hazardous"
+maga_dogg rubs his hands.
+golrien <--- villager.
+jwalrus asks, "ok, who would kill devil?"
+brenbarn says, "okay, who -- yeah"
+maga_dogg says (to jwalrus), "me, in the first turn of last game."
+iain says, "hmm. an annoyed wolf from last time makes sense. but that would be me."
+maga_dogg says, "enh, random vote time"
+jwalrus says, "ok, this sucks. we have no clue and we must lynch"
+not a valid command. try typing help.
+floyd | maga_dogg votes to lynch jwalrus.
+brenbarn says, "heh"
+golrien says, "if i was a wolf i wouldn' t do something opposite."
+jwalrus says, "hey, but that doesn't mean lynch me"
+floyd | golrien votes to lynch hjalfi.
+golrien says, "now choose."
+maga_dogg says (to jwalrus), "yes of course it does"
+schep asks, "wait, hjalfi is playing? where'd he come from?"
+floyd | hjalfi votes to lynch golrien.
+maga_dogg says (to schep), "hjalfiland"
+hjalfi says (to schep), "scotland."
+jwalrus says, "but i don't actually suspect maga, since he wouldn't be this gung-ho were he a wolf"
+schep says, "okay"
+iain asks (of hjalfi), "there are wolves in scotland, aren't there?"
+floyd | golrien retracts a vote for hjalfi.
+hjalfi says (to iain), "only in zoos."
+iain says (to jwalrus), "maga was fairly gung-ho both times."
+storme says, "hey ho, random voting here we go"
+floyd | hjalfi retracts a vote for golrien.
+brenbarn says, "maga is always gung-ho"
+floyd | storme votes to lynch schep.
+jwalrus says, "true"
+two ordinary six-sided dice. one of them is red, the other is green, and they both have white spots. the red die currently shows 6, and the green die shows 3. to roll the dice, just pick them up and drop them.
+floyd | golrien votes to lynch maga_dogg.
+you scoop up the dice, and rattle them around a bit.
+maga_dogg exclaims, "banzai!"
+you roll the dice on the floor. the red one comes up 1, and the green one comes up 2.
+golrien says, "that evidently places the blame on marvin."
+miseri is willing to be a little random, just to move along.
+floyd | iain votes to lynch miseri.
+iain asks (of miseri), "random enough?"
+maga_dogg says, "ok, randomness gets us nowhere"
+golrien says (to maga), "yes it does."
+brenbarn says, "what a cold randomness (it led us to the grave)"
+brenbarn says (to hjalfi), "wf who"
+maga_dogg says (to hjalfi), "wf who"
+miseri says (to iain), "urf. i guess. but i'm not lynching myself."
+floyd | maga_dogg retracts a vote for jwalrus.
+golrien says, "bah. we've got to do something."
+maga_dogg says, "ok. we need to develop another seer-type game that doesn't involve the seer."
+brenbarn asks, "?"
+iain asks, "masons want to come out?"
+iain asks, "how many do we have, again?"
+jwalrus says (to iain), "no point"
+brenbarn says, "urk, wait"
+schep says, "i wouldn't advise it."
+golrien says, "two."
+hjalfi says, "two."
+schep says, "there are only two."
+iain says, "probably a bad plan, yeah."
+brenbarn says, "we're seriously informationless right now"
+golrien asks, "anyone else want to claim villager?"
+storme says, "i'm a villager"
+iain says, "i'll claim villager, sure."
+storme says, "but everyone will claim that anyway"
+hjalfi says, "me too."
+golrien says, "true."
+iain says, "hmmf."
+jwalrus says, "there's no point not claiming villager"
+iain says, "i forget the mix of roles again."
+iain asks, "just two masons and two wolves left?"
+brenbarn says, "2 wolves, 2 masons, 5 villagers, and a dead seer"
+jwalrus says, "we have left 2 wolves, 2 masons and 5 villagers"
+storme says (to iain), "5 villager, 2 mason, 2 wolves"
+maga_dogg says, "if they came out as mason, it'd really help the villagers without doing anything bad to wolves"
+maga_dogg says, "s/bad/good"
+brenbarn says (to maga), "no it wouldn't"
+golrien says (to maga), "but they would get killed by a wolf."
+miseri says, "eeny meeny ... um."
+storme says (to maga), "hmmmmmmm typo"
+floyd | miseri votes to lynch schep.
+floyd | golrien changes vote from maga_dogg to hjalfi.
+iain says, "i'm not sure what would happen if the masons came out."
+maga_dogg says, "since the wolves have no reason to care if they're villagers or masons"
+brenbarn says, "it might help us now, but with this many players we'd be screwed later"
+schep says (to iain), "they would be killed in the next two nights."
+golrien says (to maga), "except that villagers are more likely to accidentally kill each other."
+jwalrus says, "the wolves should kill the masons if they know who they are"
+floyd | hjalfi votes to lynch golrien.
+iain asks, "why? what do the masons actually do?"
+maga_dogg asks (of golrien), "yes, but -wait, do masons count towards total numbers?"
+iain says, "other than vouching for each other."
+jwalrus says (to maga), "masons count as innocent"
+iain says, "if they do that now, that helps the villagers."
+schep says, "well, if they use the strategy i mentioned, they can't be lynched."
+brenbarn says, "no no"
+brenbarn says, "masons revealing themselves will not help us"
+maga_dogg asks, "why would wolves kill masons as opposed to villagers?"
+hjalfi says (to iain), "...except they'll probably be lynched next."
+jwalrus says, "but it's always in the wolves interest to kill people the villagers know to be innocent"
+schep says, "but it's better if the wolves don't know about them."
+brenbarn says, "right"
+maga_dogg says (to jwalrus), "mmm... good point"
+floyd | golrien changes vote from hjalfi to brenbarn.
+floyd | schep votes to lynch golrien.
+jwalrus says, "the masons can reveal themselves at any time, and this way the wolves are less likely to kill them first"
+brenbarn says, "golrien is suspicious"
+hjalfi says, "so is iain."
+iain says (to jwalrus), "hmm, i guess."
+schep says, "he's awfully quiet."
+golrien says, "i am a villager. as always."
+floyd | maga_dogg votes to lynch brenbarn.
+storme says, "enh, i still have no idea of who is  even possibly a wolf"
+schep says, "well, we're all a little suspicious."
+floyd | hjalfi changes vote from golrien to iain.
+golrien exclaims, "ah! it's storme!"
+floyd | iain changes vote from miseri to golrien.
+storme says, "sure, lynch me.  again"
+floyd | golrien changes vote from brenbarn to iain.
+jwalrus says, "i have no clue, so i will vote for someone who has played a largish role in the past games for reasons of fairness"
+floyd | jwalrus votes to lynch iain.
+brenbarn says, "dude, i just realized i haven't voted once in any of these games"
+maga_dogg says (to golrien), "you can't vote for everyone who votes against you :)"
+iain says (to jwalrus), "hm."
+(from golrien) floyd | golrien votes for maga_dogg.
+miseri says (to jwalrus), "you sort of played a largish role last game in spite of being a villager"
+maga_dogg says (to bren), "quick, let's lynch you before you get a chance"
+jwalrus says (to miseri), "yeah, but i'm hardly going to vote for myself"
+hjalfi asks, "can you vote for yourself?"
+floyd | iain changes vote from golrien to golrien.
+brenbarn says, "yes, but it's pointless"
+iain says, "oops, i was already voting for him"
+jwalrus says (to hjalfi), "yes, if you really want to"
+floyd | golrien changes vote from iain to iain.
+schep says (to hjalfi), "yes you can"
+floyd | maga_dogg changes vote from brenbarn to iain.
+iain says, "hee."
+iain says, "oi/."
+hjalfi says (to jwalrus), "cool."
+brenbarn asks, "are we voting for iain just because he was a wolf before?"
+floyd | storme changes vote from schep to iain.

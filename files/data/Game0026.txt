@@ -1,0 +1,20 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, and 4
+floyd | villagers.  now it is night; time for the werewolf to kill, the seer
+floyd | to identify and the rest to sleep.
+floyd | brenbarn, a villager, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+lonewolf says, "hrm"
+brenbarn mutters, "now where did i put those vital organs?"
+thrax stops aftermathing for a bit.
+weirdbeard asks, "how many times can we goof?"
+thrax says, "twice."
+thrax says, "er, once."
+lonewolf says, "well- i'm not a wolf or a seer."
+lonewolf says, "sadly."
+thrax says, "two tries."
+floyd | parsergirl votes to lynch thrax.
+thrax exclaims, "hey!"
+lonewolf says, "sure, he was a wolf last time"
+floyd | lonewolf votes to lynch thrax.
+weirdbeard asks (of pg), "reason?"
+floyd | trikiw votes to lynch thrax.

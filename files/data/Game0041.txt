@@ -1,0 +1,32 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | vigilante, and 2 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the vigilante to kill and the rest to
+floyd | sleep.
+floyd | schep, a villager, wakes missing a few vital organs.
+floyd | it is now day. time to vote on whom to lynch.
+floyd | hloif votes to lynch hloif.
+maga_dogg says, "seer may as well claim now"
+hloif says, "let's just get it over with.  :)"
+hloif asks (of maga_dogg), "huh, why?"
+brenbarn asks (of hloif), "now what?"
+emily asks (of hloif), "er, is that a confession?"
+maga_dogg says (to hloif), "gives villagefolk something to go on, lynchwise"
+hloif says (to emily), "no, it's not.  i'm trying to be funny.  :("
+hloif asks (of maga_dogg), "anyway, what's the logic with the seer stepping forward?"
+brenbarn asks, "if we're wrong, we die, right?"
+maga_dogg says (to hloif), "what bren said."
+brenbarn says, "hmmm, so vig and wolf both targeted schep"
+hloif says, "okay, then, i'm the seer, and emily is a vigilante."
+<rob> knock on the door at the right moment and you, too, can have a sopping wet, half-dressed marcia gay harden leap into your arms.
+not a valid command. try typing help.
+brenbarn says, "i'm villager"
+maga_dogg says, "wf vote brenbarn"
+brenbarn says, "that leaves maga"
+floyd | maga_dogg votes to lynch brenbarn.
+floyd | hloif changes vote from hloif to maga_dogg.
+maga_dogg exclaims, "no!"
+brenbarn says, "unless hloif is lying"
+floyd | emily votes to lynch maga_dogg.
+maga_dogg says, "bren's lying, i'm a merry yokel"
+hloif says, "i'm not lying...  last night, i saw that emily was a vigilante."
+floyd | brenbarn votes to lynch maga_dogg.

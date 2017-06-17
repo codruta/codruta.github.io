@@ -1,0 +1,26 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | mafia, and 3 villagers.  now it is night; time for the werewolf to
+floyd | kill, the seer to identify, the mafia to kill and the rest to sleep.
+boingball says, "i hope the wolf and mafia wipe each other out..."
+floyd | parsergirl, a villager, is found scattered around the village.
+floyd | jwalrus, a villager, mutters something about having been detected as a
+floyd | b4d mch1n3 before collapsing into a pile of scrap metal.
+floyd | it is now day. time to vote on whom to lynch.
+boingball says, "bah, no such luck"
+brenbarn says, "rats, two deaths"
+jwalrus says, "oh, i die again. what a surprise"
+penguin says (to boingball), "well, now we have a challenge"
+penguin says, "i like challenges. sometimes."
+brenbarn says, "hmmm."
+brenbarn says, "so we have 1 wolf, 1 villager, 1 mafia, and 1 seer"
+boingball says, "yes"
+penguin says, "yes."
+jwalrus says, "hee"
+penguin says, "sounds like speedwolf."
+boingball asks, "shall we just crazyvote until someone dies?"
+floyd | hloif votes to lynch boingball.
+brenbarn asks, "should we do 'if i am the seer'?"
+floyd | boingball votes to lynch hloif.
+floyd | penguin votes to lynch boingball.
+boingball says, "i'm the seer"
+floyd | brenbarn votes to lynch boingball.

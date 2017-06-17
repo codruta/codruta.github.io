@@ -1,0 +1,61 @@
+floyd | a new game begins with 6 players composed of 1 werewolf, 1 seer, 1
+floyd | magistrate, and 3 villagers.  now it is night; time for the werewolf
+floyd | to kill, the seer to identify, the magistrate to protect and the rest
+floyd | to sleep.
+julian asks, "magistrate seems kind of funny.  why can't the magistrate protect someone during the day, to avert a lynching?"
+brenbarn says, "hm!"
+matthew says, "but i don't understand why rob didn't survive."
+brenbarn says, "let's see how this goes"
+floyd | rob, a villager, grins up at you from a lifeless skull.
+floyd | it is now day. time to vote on whom to lynch.
+floyd | brenbarn is protected from lynching today.
+rob has had his fill of playing for now, and goes back to the lounge.
+matthew says, "eeep, rob."
+brenbarn says, "poor rob"
+julian says, "indeed, he shall be missed."
+reillyb says, "truly"
+floyd | julian votes to lynch brenbarn.
+<kalthare> kalthare has connected to ifmud.
+brenbarn says, "i'm protected, man"
+matthew asks (of julian), "wait, why?"
+julian says, "i'm just playing."
+maga_dogg says, "experimenting"
+</rob> find release from your cares. have a good time.
+julian says, "funny that it allows me to vote for him."
+floyd | julian retracts a vote for brenbarn.
+brenbarn says, "you can vote but you can't win!"
+floyd | julian votes to lynch reillyb.
+brenbarn says, "um"
+</lennier> "name most a tool, emu!"
+maga_dogg asks, "hmm. iias?"
+brenbarn says, "sure"
+brenbarn says, "if i'm seer, reillyb is innocent"
+maga_dogg says, "iias, matthew is innocent."
+matthew says, "yes, i'm innocent."
+brenbarn says, "heh"
+julian says, "i'm not going to support my vote for reillyb."
+reillyb says, "neither am i"
+brenbarn asks (of julian), "what does that mean?"
+julian says (to brenbarn), "oh, nevermind."
+floyd | julian retracts a vote for reillyb.
+julian says, "but i'd appreciate if the seer, unless he has already spoken, would identify reillyb."
+brenbarn asks, "what?"
+brenbarn says, "obviously seer should come out if he knows the wolf.  otherwise. . ."
+maga_dogg asks (of julian), "why, exactly? is this just general newbie-fear?"
+julian says, "ok, specifically, and perhaps wrongly, it is fear of the delay that someone took this last night."
+brenbarn says, "that wasn't much of a delay"
+julian says, "wasn't it?  well, i've retracted my vote.  also reillyb's shortness."
+</dan_wood> in all seriousness, what the hell is iran going to do with killer soviet dolphins?
+brenbarn says, "(certainly compared to that absurdly long night yesterday)"
+</ghogg> arrived in court last month wearing a half-kangaroo, half-clown costume
+julian says (to brenbarn), "hee."
+maga_dogg says, "hmm. julian's being a little overhasty"
+maga_dogg says, "but then, this is the first round"
+julian says, "yes, i'm starting to dislike first round."
+brenbarn says, "then let's end it!  haha!"
+floyd | julian votes to lynch reillyb.
+brenbarn says, "i'm more inclined to think it's maga, but that's just 'cause he's such a wacky guy"
+julian shrugs.
+floyd | matthew votes to lynch reillyb.
+brenbarn says (to matthew), "what do you -- aha"
+floyd | maga_dogg votes to lynch reillyb.

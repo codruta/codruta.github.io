@@ -1,0 +1,60 @@
+floyd | a new game begins with 5 players composed of 1 werewolf, 1 seer, 1
+floyd | wolfsbane carrier, and 2 villagers.  now it is night; time for the
+floyd | werewolf to kill, the seer to identify, the wolfsbane carrier to
+floyd | protect and the rest to sleep.
+floyd | no one died the previous night.
+floyd | it is now day. time to vote on whom to lynch.
+schep says, "yay"
+thumper says, "yay."
+jwalrus says, "fsck this, i'm a sodding villager again"
+jwalrus says, "but yay"
+doe says, "that's rare"
+brenbarn says, "hooray"
+schep says, "well, it was 1 in 5. or 1 in 4, depending."
+jwalrus says, "three chances out of five to be special"
+doe says, "true"
+jwalrus says, "but, i didn't get lynched last game!"
+doe says, "afk for a cig break, back quick"
+jwalrus says, "let's lynch her while she's not looking"
+thumper asks, "mm, should we do the 'if i were a seer ... ' thing?"
+brenbarn says, "she could be seer"
+jwalrus says, "if i were a seer i'd live in a big house and have a dog called spot"
+doe says, "bak"
+doe exclaims (at jwalrus), "hey!"
+schep says, "if i am a seer then doe is not a wolf."
+thumper says (to doe), "that was quick."
+doe says (to thumper), "well i know you guys are waiting normally i take a lot longer"
+thumper says, "if i am a seer then schep is not a wolf."
+jwalrus says, "if i am seer i know who is baner but am not sure if i should say."
+brenbarn says, "if am a seer then you should not lynch me"
+doe says, "if i am a seer toss me a silver coin"
+schep says (to jwalrus), "um, that's not useful."
+jwalrus says (to okb), "you missed a great crazy game a while ago"
+schep says, "hence the s/villager/not wolf/ wording."
+brenbarn says (to jwal), "rats."
+jwalrus says (to schep), "true. i'm not a seer, so i'm not thinking about it very carefully."
+thumper asks, "so, um, who to vote?"
+jwalrus says, "not me. i'm fed up of being lynched."
+brenbarn says, "jwal -- timing"
+jwalrus asks, "also, when we lynch people, how do we kill them?"
+schep says, "noose"
+doe says, "well thumper asked first"
+thumper asks (of jwalrus), "there's more than one way?"
+brenbarn asks, "?"
+floyd | doe votes to lynch thumper.
+schep says, "somehow i believe him."
+jwalrus says (to thumper), "just because you're used to using your terrible fangs"
+schep asks, "he asked what?"
+doe says (to schep), "who should we lynch"
+schep says, "enh."
+floyd | thumper votes to lynch doe.
+floyd | schep votes to lynch brenbarn.
+doe says, "not again, lol"
+floyd | brenbarn votes to lynch schep.
+schep says (to brenbarn), "you've been quiet."
+brenbarn says, "hmm, if we guess wrong and wolf guesses right, we still have one more day."
+doe says (to schep), "yeah he has"
+floyd | doe changes vote from thumper to brenbarn.
+brenbarn says, "don't kill me"
+brenbarn says, "i am baner"
+floyd | thumper changes vote from doe to brenbarn.
